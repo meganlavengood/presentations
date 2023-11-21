@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:wght@800&display=swap');
+
+:root {
+
+    --r-main-color: #553819;
+    --r-heading-color: #553819;
+    --r-background-color: #fffaef;
+    --r-link-color: #730071;
+    --r-link-color-hover: #e000dd;
+    --r-link-color-dark: #410040;
+    --r-heading-font: "Open Sans", sans-serif;
+    --r-main-font: "Gentium Book Plus", serif;
+}
+
+h2 {
+    border-bottom: 5px solid #e0aa38ff;
+}
