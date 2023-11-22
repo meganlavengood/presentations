@@ -1,3 +1,3 @@
 # presentations
 
-[go to site](presentations.meganlavengood.com)
+[go to site](https://presentations.meganlavengood.com)
