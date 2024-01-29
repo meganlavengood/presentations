@@ -8,6 +8,7 @@
     --r-link-color: #730071;
     --r-link-color-hover: #e000dd;
     --r-link-color-dark: #410040;
+    --accent: var(--r-link-color);
     --r-heading-font: "Open Sans", sans-serif;
     --r-main-font: "Gentium Book Plus", serif;
 }
@@ -17,5 +18,19 @@ h2 {
 }
 
 hr {
-    border: 2px solid var(--link-color-dark);
+    border: 3px solid var(--accent);
+}
+
+
+.container {
+    display: flex !important;
+}
+.col {
+    
+    flex: 1;
+}
+
+.col-8 {
+    display: block;
+    width: 80%;
 }
