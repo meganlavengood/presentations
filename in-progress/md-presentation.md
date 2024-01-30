@@ -23,7 +23,7 @@ University of Maryland, February 2, 2024
 
 ## [Bibliography](https://www.zotero.org/mlavengood/collections/TJALUVK7/item-list)
 
-<a href="https://www.zotero.org/mlavengood/collections/TJALUVK7/item-list"><img src="bibqr-teaching-timbre.svg" width="50%"></a>
+<a href="https://www.zotero.org/mlavengood/collections/TJALUVK7/item-list"><img src="/teaching-timbre/bibqr-teaching-timbre.svg" width="50%"></a>
 
 ---
 
@@ -51,7 +51,7 @@ Some published critique of typical undergraduate theory curriculum (look in [bib
 * [Kajikawa 2019](https://doi.org/10.2307/j.ctvcwp0hd) 
 * [Ewell 2020](https://mtosmt.org/issues/mto.20.26.2/mto.20.26.2.ewell.html)
 
-![QR](bibqr-teaching-timbre.svg)
+![QR](/teaching-timbre/bibqr-teaching-timbre.svg)
 
 --
 
@@ -86,11 +86,11 @@ Some published critique of typical undergraduate theory curriculum (look in [bib
 <div class="container">
 
 <div class="col">
-<img src="reddit-1.png" alt="screenshot 1" width="100%">
+<img src="/teaching-timbre/reddit-1.png" alt="screenshot 1" width="100%">
 </div>
 
 <div class="col">
-<img src="reddit-2.png" alt="screenshot 2" width="100%">
+<img src="/teaching-timbre/reddit-2.png" alt="screenshot 2" width="100%">
 </div>
 
 </div>
@@ -153,14 +153,14 @@ Both require particular modes of research and thinking that are not typically en
 
 ## Polyphonic Timbre
 
-* Analysis of texture
+* Analysis of texture: more than just "monophonic, polyphonic, homophonic"
 * Auditory stream analysis (ASA)
 
 [McAdams, Goodchild, and Soden, “A Taxonomy of Orchestral Grouping Effects Derived from Principles of Auditory Perception” (2022)](https://www.zotero.org/mlavengood/collections/TJALUVK7/item-list) <!-- .element: style="font-size: medium;"-->
 
 ---
 
-## Classroom resources <!-- .element: class="r-fit-text" -->
+## Textbooks and readings <!-- .element: class="r-fit-text" -->
 
 Traditional textbooks don't help much:
 
@@ -187,7 +187,7 @@ Traditional textbooks don't help much:
 
 --
 
-## Classroom resources <!-- .element: class="r-fit-text" -->
+## Textbooks and readings <!-- .element: class="r-fit-text" -->
 
 
 
@@ -197,7 +197,7 @@ Traditional textbooks don't help much:
 
 --
 
-## Classroom resources <!-- .element: class="r-fit-text" -->
+## Textbooks and readings <!-- .element: class="r-fit-text" -->
 
 [ACTOR Network, Timbre and Orchestration Resource](https://timbreandorchestration.org/modules)
 
@@ -205,7 +205,7 @@ Traditional textbooks don't help much:
 
 --
 
-## Classroom resources <!-- .element: class="r-fit-text" -->
+## Textbooks and readings <!-- .element: class="r-fit-text" -->
 
 [Mark Gotham, *Open Music Theory* v. 2, Orchestration](https://viva.pressbooks.pub/openmusictheory/part/orchestration)
 
@@ -213,7 +213,7 @@ Traditional textbooks don't help much:
 
 --
 
-## Classroom resources <!-- .element: class="r-fit-text" -->
+## Textbooks and readings <!-- .element: class="r-fit-text" -->
 
 [Megan Lavengood, chapter on texture in pop music](https://viva.pressbooks.pub/openmusictheory/chapter/texture-in-pop-music/)
 
@@ -223,58 +223,59 @@ Traditional textbooks don't help much:
 
 ---
 
-## Activities
+<section data-background-iframe="https://viva.pressbooks.pub/openmusictheory/chapter/texture-in-pop-music/"
+          data-background-interactive>
+</section>
 
 ---
 
-## Bibliography <!-- .element: class="r-fit-text" -->
+## Activities and Assessments <!-- .element: class="r-fit-text" -->
 
+* Music theory loves visuals: annotated scores, form charts, musical geometries, dot grids/coffee-bean grids
+* How to visually represent and assess timbre analyses?
 
+--
 
-Butler, Mark J. 2006. _Unlocking the Groove: Rhythm, Meter, and Musical Design in Electronic Dance Music_. Bloomington: Indiana University Press.
+<!-- .slide: data-background-image="/teaching-timbre/butler.png" -->
 
-Campbell, Patricia Shehan, David Myers, Ed Sarath, Juan Chattah, Lee Higgins, Victoria Lindsay Levine, David Rudge, and Timothy Rice. 2014. “Transforming Music Study from Its Foundations: A Manifesto for Progressive Change in the Undergraduate Preparation of Music Majors.” Report of the Task Force on the Undergraduate Music Major. The College Music Society. [http://www.mtosmt.org/issues/mto.16.22.1/manifesto.pdf](http://www.mtosmt.org/issues/mto.16.22.1/manifesto.pdf).
+<div style="background-color:#fffaed;">
 
-Chenette, Timothy. 2021. “What Are the Truly Aural Skills?” _Music Theory Online_ 27 (2). [https://mtosmt.org/issues/mto.21.27.2/mto.21.27.2.chenette.html](https://mtosmt.org/issues/mto.21.27.2/mto.21.27.2.chenette.html).
+## Polyphonic Timbre: Functional Layers <!-- .element: class="r-fit-text" -->
 
-———. 2022. _Foundations of Aural Skills_. [https://uen.pressbooks.pub/auralskills/](https://uen.pressbooks.pub/auralskills/).
+* Layer graphs show entrance and exit of different layers of a musical work
+* E.g.: Butler (2006, background), Dolan (2013), Lavengood (2021)
+* Probably created with Excel or programming toolkits for data science
+  
+</div>
 
-Dolan, Emily. 2013. _The Orchestral Revolution: Haydn and the Technologies of Timbre_. Cambridge ; New York: Cambridge University Press.
+---
 
-Ewell, Philip A. 2020. “Music Theory and the White Racial Frame.” _Music Theory Online_ 26 (2). [https://mtosmt.org/issues/mto.20.26.2/mto.20.26.2.ewell.html](https://mtosmt.org/issues/mto.20.26.2/mto.20.26.2.ewell.html).
+<section data-background-iframe="https://brianedwardjarvis.com/auralayer/home.html"
+          data-background-interactive>
+</section>
 
-Ferrer, Rafael. 2011. “Timbral Environments: An Ecological Approach to the Cognition of Timbre.” _Empirical Musicology Review_ 6 (2): 64–74. [https://doi.org/10.18061/1811/51213](https://doi.org/10.18061/1811/51213).
+---
 
-Gotham, Mark, Kyle Gullings, Chelsey Hamm, Bryn Hughes, Brian Jarvis, Megan Lavengood, and John Peterson. 2021. _Open Music Theory_. [https://viva.pressbooks.pub/openmusictheory/](https://viva.pressbooks.pub/openmusictheory/).
+## Polyphonic Timbre: Functional Layers <!-- .element: class="r-fit-text" -->
 
-Heidemann, Kate. 2016. “A System for Describing Vocal Timbre in Popular Song.” _Music Theory Online_ 22 (1). [https://doi.org/10.30535/mto.22.1.2](https://doi.org/10.30535/mto.22.1.2).
+* Assignment: Identifying textural layers. Asks students to access [“Going Somewhere” by Akaban on splitter.fm](https://splitter.fm/abakan/going-somewhere) and assign each of the song‘s stems to a functional layer.
+* Assignment: [Visualizing texture analysis](https://viva.pressbooks.pub/app/uploads/sites/12/2024/01/wk-visualizing-texture.pdf).<br>Asks students to use Auralayer to map out the instrumentation and texture of “bad guy” by Billie Eilish (2019).
 
-Hisama, Ellie. 2018. “Considering Race and Ethnicity in the Music Theory Classroom.” In _Norton Guide to Teaching Music Theory_, edited by Rachel Lumsden and Jeffrey Swinkin, First Edition. New York: W. W. Norton & Company.
+---
 
-Jarvis, Brian Edward. 2022. “BriFormer.” 2022. [https://www.brianedwardjarvis.com/MusicTheoryWebApps/BriFormer/briformer.html](https://www.brianedwardjarvis.com/MusicTheoryWebApps/BriFormer/briformer.html).
+## Polyphonic Timbre: Auditory Scene Analysis <!-- .element: class="r-fit-text" -->
 
-Jarvis, Brian Edward, Megan L. Lavengood, and Evan Williams. 2022. “Auralayer.” 2022. [https://brianedwardjarvis.com/auralayer/auralayer.html](https://brianedwardjarvis.com/auralayer/auralayer.html).
+![grouping processes diagram](/teaching-timbre/mcadams_ex3.png)
 
-Kajikawa, Loren. 2019. “The Possessive Investment in Classical Music: Confronting Legacies of White Supremacy in U.S. Schools and Departments of Music.” In _Seeing Race Again: Countering Colorblindness across the Disciplines_, edited by Kimberlé Williams Crenshaw, Luke Charles Harris, Daniel Martinez HoSang, and George Lipsitz. University of California Press. [https://doi.org/10.2307/j.ctvcwp0hd](https://doi.org/10.2307/j.ctvcwp0hd).
+![sequential grouping](/teaching-timbre/mcadams_ex12.png)
 
-Lavengood, Megan L. 2020. “The Cultural Significance of Timbre Analysis: A Case Study in 1980s Pop Music, Texture, and Narrative.” _Music Theory Online_ 26 (3). [https://doi.org/10.30535/mto.26.3.3](https://doi.org/10.30535/mto.26.3.3).
+--
 
-———. 2021. “Timbre, Rhythm, and Texture within Music Theory’s White Racial Frame.” In _The Oxford Handbook of Electronic Dance Music_, edited by Luis-Manuel Garcia and Robin James. New York: Oxford University Press. [https://doi.org/10.1093/oxfordhb/9780190093723.013.17](https://doi.org/10.1093/oxfordhb/9780190093723.013.17).
+## Polyphonic Timbre: Auditory Scene Analysis <!-- .element: class="r-fit-text" -->
 
-McAdams, Stephen. 2018. “‘What Is Timbre?’ Vs. ‘What Can We Do with Timbre?’: Picking the Right Questions.” Opening address presented at the Timbre is a Many-Splendored Thing, Montreal, July 4. [https://www.mcgill.ca/timbre2018/program](https://www.mcgill.ca/timbre2018/program).
+* Assignment: Auditory scene analysis. Asks students to analyze a few passages from *Rite of Spring*, annotate the score, and apply terminology from [McAdams et al. 2022](https://www.zotero.org/mlavengood/collections/TJALUVK7/item-list).
 
-———. 2019. “Timbre as a Structuring Force in Music.” In _Timbre: Acoustics, Perception, and Cognition_, edited by Kai Siedenburg, Charalampos Saitis, Stephen McAdams, Arthur N. Popper, and Richard R. Fay, 69:211–43. Springer Handbook of Auditory Research. Cham: Springer International Publishing. [https://doi.org/10.1007/978-3-030-14832-4\_8](https://doi.org/10.1007/978-3-030-14832-4_8).
+--
 
-McAdams, Stephen, Meghan Goodchild, and Kit Soden. 2022. “A Taxonomy of Orchestral Grouping Effects Derived from Principles of Auditory Perception.” _Music Theory Online_ 28 (3). [https://mtosmt.org/issues/mto.22.28.3/mto.22.28.3.mcadams.html](https://mtosmt.org/issues/mto.22.28.3/mto.22.28.3.mcadams.html).
-
-Moore, Allan F. 2012. _Song Means: Analysing and Interpreting Recorded Popular Song_. Burlington, VT: Ashgate.
-
-Newsome, Gregory Lee. n.d. “Orcheil.” Accessed August 28, 2023. [http://orcheil.ca/](http://orcheil.ca/).
-
-Sandell, Gregory J. 1998. “Macrotimbre: Contribution of Attack, Steady State, and Verbal Attributes.” _The Journal of the Acoustical Society of America_ 103 (5\_Supplement): 2966. [https://doi.org/10.1121/1.422371](https://doi.org/10.1121/1.422371).
-
-Siedenburg, Kai, and Stephen McAdams. 2017. “Four Distinctions for the Auditory ‘Wastebasket’ of Timbre.” _Frontiers in Psychology_ 8. [https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01747](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01747).
-
-Siedenburg, Kai, Charalampos Saitis, and Stephen McAdams. 2019. “The Present, Past, and Future of Timbre Research.” In _Timbre: Acoustics, Perception, and Cognition_, edited by Kai Siedenburg, Charalampos Saitis, Stephen McAdams, Arthur N. Popper, and Richard R. Fay, 1–19. Springer Handbook of Auditory Research. Cham: Springer International Publishing. [https://doi.org/10.1007/978-3-030-14832-4\_1](https://doi.org/10.1007/978-3-030-14832-4_1).
-
+## Timbre Semantics
 
