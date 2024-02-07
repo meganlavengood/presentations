@@ -9,18 +9,23 @@
     --r-link-color-hover: #e000dd;
     --r-link-color-dark: #410040;
     --accent: var(--r-link-color);
-    --r-heading-font: "Open Sans", sans-serif;
-    --r-main-font: "Gentium Book Plus", serif;
+    --sans-serif: "Open Sans", sans-serif;
+    --serif: "Gentium Book Plus", serif;
+    --r-heading-font: var(--sans-serif);
+    --r-main-font: var(--serif);
 }
 
 h2 {
-    border-bottom: 5px solid #e0aa38ff;
+    border-bottom: 5px solid #e0aa38;
 }
 
 hr {
     border: 3px solid var(--accent);
 }
 
+.navbar {
+    font-family: var(--sans-serif);
+}
 
 .container {
     display: flex !important;
