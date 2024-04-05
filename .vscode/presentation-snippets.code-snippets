@@ -7,7 +7,7 @@
 	// Placeholders with the same ids are connected.
 	// Example:
 	"Add fragment code": {
-		"prefix": "fragment",
+		"prefix": "-frag",
 		"body": [
 			"<!-- .element: class=\"fragment\" data-fragment-index=\"$1\" -->"
 		],
@@ -23,5 +23,14 @@
 			"</aside>"
 		],
 		"description": "Add notes to display in speaker view only"
+	},
+
+
+	"fit-text": {
+		"prefix": "-fit",
+		"body": [
+			"<!-- .element: class='r-fit-text' -->"
+		],
+		"description": "fit text to single line"
 	}
 }

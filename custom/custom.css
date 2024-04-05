@@ -39,3 +39,8 @@ hr {
     display: block;
     width: 80%;
 }
+
+.col-6 {
+    display: block;
+    width: 60%;
+}
