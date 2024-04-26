@@ -8,7 +8,7 @@
     --r-link-color: #730071;
     --r-link-color-hover: #e000dd;
     --r-link-color-dark: #410040;
-    --global-color-primary: #e0aa38;
+    --global--color-primary: #e0aa38;
     --accent: var(--r-link-color);
     --sans-serif: "Open Sans", sans-serif;
     --serif: "Gentium Book Plus", serif;
@@ -36,6 +36,11 @@ h3.wordpress {
 h3.wordpress a {
     color: var(--r-main-color);
     text-decoration: none;
+}
+h3.wordpress a:hover {
+    text-decoration: var(--global--color-primary) underline dotted;
+    -webkit-text-decoration: var(--global--color-primary) underline dotted;
+    text-decoration-thickness: 2px;
 }
 
 
