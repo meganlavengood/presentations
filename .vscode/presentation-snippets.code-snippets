@@ -32,5 +32,46 @@
 			"<!-- .element: class='r-fit-text' -->"
 		],
 		"description": "fit text to single line"
+	},
+
+	"float the image": {
+		"prefix": "-float",
+		"body": [
+			"<div style='float: right; width:30%;'>",
+				"<img class='r-frame' src='$1'>",
+			"</div>",
+			"<div style='width:70%;'>",
+				"<section data-markdown>",
+					"<textarea data-template>",
+					"$2",
+					"</textarea>",
+				"</section>",
+			"</div>"
+		],
+		"description": "Float an image and add text in Markdown"
+	},
+
+	"new listing on website": {
+		"prefix": "-list-pres",
+		"body": [
+			"<div>",
+			"<h3><a href='${1:html file}.html'>${2:title}</a></h3>",
+			"<p class='d-inline-flex gap-1'>",
+			"<button class='btn btn-secondary btn-sm' type='button' data-bs-toggle='collapse' data-bs-target='#abstract-$1' aria-expanded='false' aria-controls='abstract-$1'>",
+			"<i class='fa-solid fa-circle-info'></i> More info",
+			"</button>",
+			"</p>",
+			"<div class='collapse' id='abstract-$1'>",
+			"<div class='card'>",
+			"<div class='card-body'>",
+			"<h5 class='card-title'>Abstract</h5>",
+			"<p class='card-text'>${3:abstract}</p>",
+			"</div>",
+			"<div class='card-footer'><small class='text-body-secondary'>${4:where presented}</small></div>",
+			"</div>",
+			"</div>",
+			"</div>",
+		]
 	}
+
 }
