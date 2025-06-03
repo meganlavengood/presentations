@@ -107,6 +107,7 @@ html * {
 
 .reveal h4 {
 	font-size: var(--r-heading4-size);
+	padding-top: 1em;
 }
 
 .reveal h1 {
