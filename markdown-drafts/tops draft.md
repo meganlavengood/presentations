@@ -19,21 +19,17 @@ output: revealjs::revealjs_presentation
 # Instrumental Timbre</br>and Texture<br/>in Popular Song <!-- .element: class="r-fit-text" -->
 
 <div class="r-stretch"></div>
-<div class="row justify-content-between align-content-end g-2">
-    <div class="col"><p style="text-align:left;">
-        Megan Lavengood<br/>
-        <a href="mailto:mlavengo@gmu.edu">mlavengo@gmu.edu</a>
-    </p></div>
-    <div class="col" style="text-align:right;"><p class="r-fit-text">Timbre and Orchestration in Popular Song<br/>
-Montreal, QC</br>
-June 5, 2025</p></div>
+<div class="row justify-content-between align-items-end px-2 g-2 small">
+    <div class="col-md-4"><p>Megan Lavengood<br/><a href="mailto:mlavengo@gmu.edu">mlavengo@gmu.edu</a></p></div>
+    <div class="col-md-4"><p><a style="font-family: 'Open Sans'; letter-spacing:0.1em; -webkit-text-fill-color: #fffaef; -webkit-text-stroke-width: 2px; -webkit-text-stroke-color: #553819; text-shadow: -3px 3px #fffaef, -4px 4px 1px gray, -6px 6px #fffaef, -7px 7px 2px gray;" href="https://www.mcgill.ca/tops2025/">TOPS</a><br/>Montreal, QC</br>June 5, 2025</p></div>
+    <div class="col-md-4"><p><a href="https://presentations.meganlavengood.com/2025-tops.html"><img src="/tops/pres-tops.svg" width="50%"></a><br/>Follow along</p></div>
 </div>
 
 --
 
 ## [Bibliography](https://www.zotero.org/mlavengood/collections/2URXWKKL/item-list)
 
-<a href="https://www.zotero.org/mlavengood/collections/2URXWKKL/item-list"><img src="/teaching-timbre/bibqr-tops.svg" width="50%"></a>
+<a href="https://www.zotero.org/mlavengood/collections/2URXWKKL/item-list"><img src="/tops/bibqr-tops.svg" width="50%"></a>
 
 ---
 
@@ -59,7 +55,7 @@ June 5, 2025</p></div>
 
 [Lavengood (2020), \[1.9–19\]](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.lavengood.html)<!-- .element: class='r-fit-text' -->
 
-<div class='container'>
+<div class='container align-items-center'>
 
 ::: .col
 
@@ -72,7 +68,9 @@ June 5, 2025</p></div>
 -   _beatless / beating_
 -   _harmonic / inharmonic_
 
-::: ::: .col
+:::
+
+::: .col
 
 #### Spectral - attack
 
@@ -138,7 +136,7 @@ Heidemann (2016) <br/> Table 1 {style=text-align:right;}
 
 ### Percussion timbre
 
-Lavengood and Barranco (2020)
+[Lavengood and Barranco (forthcoming)](https://www.zotero.org/mlavengood/collections/2URXWKKL/item-list)
 
 <div class='container align-items-center' style="text-align:left;">
 
@@ -206,7 +204,7 @@ Lavengood and Barranco (2020)
 
 ## 2. Texture
 
--   Expanding on work by Allan Moore (2012)
+-   Expanding on work by [Allan Moore (2012)](https://www.zotero.org/mlavengood/collections/2URXWKKL/item-list)
 -   Traditional terms—homophony, polyphony, heterophony, monophony—are not very useful for analyzing pop (or classical…? …or anything?)
 
 --
@@ -223,7 +221,7 @@ Lavengood and Barranco (2020)
 
 #### Novelty layer
 
-(see also Reymore's work)
+(see also Biamonte/Reymore workshop)
 
 -   Often melodic in content, but not necessarily
 -   Intermittent—cuts in and out of the texture, often in call-and-response with melodic layers
@@ -231,8 +229,6 @@ Lavengood and Barranco (2020)
 -   Typically uses marked timbres and instruments
 
 --
-
-Moore (2012), 20
 
 <div class="row flex-wrap justify-content-between">
 
@@ -257,9 +253,9 @@ Moore (2012), 20
 
 </div>
 
---
-
 Moore (2012), 20
+
+--
 
 <div class="row flex-wrap justify-content-between">
 
@@ -284,6 +280,8 @@ Moore (2012), 20
 
 </div>
 
+Moore (2012), 20
+
 --
 
 -   Moore's textural layers are certainly an improvement on traditional texture terms, but
@@ -300,17 +298,22 @@ Moore (2012), 20
 
 <iframe style="border: 0; width: 100%; max-width: 700px; height: 120px; margin-left: auto; margin-right: auto;" data-src="https://bandcamp.com/EmbeddedPlayer/album=2765736108/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/artwork=small/track=4231873605/transparent=true/" seamless><a href="https://jlin.bandcamp.com/album/black-origami">Black Origami by Jlin</a></iframe>
 
-[download mp3](https://gmuedu-my.sharepoint.com/:u:/g/personal/mlavengo_gmu_edu/EfrL_MJQkOhIiijUnpwF1toBt4kmLv1Sr1pKm9mjI01Vqw?e=cYIqHx) <!-- .element: class="small" -->
+[download mp3](https://gmuedu-my.sharepoint.com/:u:/g/personal/mlavengo_gmu_edu/EfrL_MJQkOhIiijUnpwF1toBt4kmLv1Sr1pKm9mjI01Vqw?e=cYIqHx) • [open shared doc](https://docs.google.com/spreadsheets/d/1nJwi_E87puVQSimMXNBFuaN0-aL51Y4xgK9_vLfekJA/edit?usp=sharing)<!-- .element: class="small" -->
 
-::: .r-stretch
-
-Possible activities:
+<div style="float: right; width:30%;">
+<a href="https://presentations.meganlavengood.com/2025-tops.html"><img src="/tops/pres-tops.svg"></a>
+</div>
+<div style="width:70%;">
+<section data-markdown>
+<textarea data-template>
 
 1. Identify instruments (by name, by timbre, onomotopoeia)
 2. Categorize instruments as belonging to functional layers (melody, harmony, bass, beat, novelty)
 3. Transcribe rhythmic motives
 
-:::
+</textarea>
+</section>
+</div>
 
 --
 
