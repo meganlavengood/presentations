@@ -3,7 +3,7 @@ title: "Instrumental Timbre and Texture in Popular Song"
 author: "Megan Lavengood"
 date: "June 5, 2025"
 
-customTheme: "solarized-custom"
+customTheme: "custom/solarized-custom"
 slideNumber: true
 preloadiframes: true
 fragments: true
@@ -13,8 +13,7 @@ output: revealjs::revealjs_presentation
 
 <!-- This workshop investigates instrumental timbre and texture in popular song, building on the approaches of Moore (2012) and Lavengood (2020, 2021) to explicate relationships between an instrument's timbral qualities and its role within the larger texture. Regardless of the specific instrumentation, many popular songs comprise four basic layers of the musical texture, which are typically separated by register (different pitch levels) and timbre (different tone colors): melody, harmony, bass, and explicit beat layers; some songs additionally feature a rhythmically and timbrally marked novelty layer that does not blend with the others. By bringing attention to various marginalized subgenres of popular music (e.g., rap, EDM), we will also scrutinize the assumptions that underlie existing definitions of popular-music terms and analytical models. -->
 
-<link rel="stylesheet" href="bootstrap-2.css">
-<!-- <link rel="stylesheet" href="custom.css"> -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 
 # Instrumental Timbre</br>and Texture<br/>in Popular Song <!-- .element: class="r-fit-text" -->
 
@@ -22,14 +21,14 @@ output: revealjs::revealjs_presentation
 <div class="row justify-content-between align-items-end px-2 g-2 small">
     <div class="col-md-4"><p>Megan Lavengood<br/><a href="mailto:mlavengo@gmu.edu">mlavengo@gmu.edu</a></p></div>
     <div class="col-md-4"><p><a style="font-family: 'Open Sans'; letter-spacing:0.1em; -webkit-text-fill-color: #fffaef; -webkit-text-stroke-width: 2px; -webkit-text-stroke-color: #553819; text-shadow: -3px 3px #fffaef, -4px 4px 1px gray, -6px 6px #fffaef, -7px 7px 2px gray;" href="https://www.mcgill.ca/tops2025/">TOPS</a><br/>Montreal, QC</br>June 5, 2025</p></div>
-    <div class="col-md-4"><p><a href="https://presentations.meganlavengood.com/2025-tops.html"><img src="/tops/pres-tops.svg" width="50%"></a><br/>Follow along</p></div>
+    <div class="col-md-4"><p><a href="https://presentations.meganlavengood.com/2025-tops.html"><img src="/img/tops/pres-tops.svg" width="50%"></a><br/>Follow along</p></div>
 </div>
 
 --
 
 ## [Bibliography](https://www.zotero.org/mlavengood/collections/2URXWKKL/item-list)
 
-<a href="https://www.zotero.org/mlavengood/collections/2URXWKKL/item-list"><img src="/tops/bibqr-tops.svg" width="50%"></a>
+<a href="https://www.zotero.org/mlavengood/collections/2URXWKKL/item-list"><img src="/img/tops/bibqr-tops.svg" width="50%"></a>
 
 ---
 
@@ -280,8 +279,6 @@ Moore (2012), 20
 
 </div>
 
-Moore (2012), 20
-
 --
 
 -   Moore's textural layers are certainly an improvement on traditional texture terms, but
@@ -301,7 +298,7 @@ Moore (2012), 20
 [download mp3](https://gmuedu-my.sharepoint.com/:u:/g/personal/mlavengo_gmu_edu/EfrL_MJQkOhIiijUnpwF1toBt4kmLv1Sr1pKm9mjI01Vqw?e=cYIqHx) • [open shared doc](https://docs.google.com/spreadsheets/d/1nJwi_E87puVQSimMXNBFuaN0-aL51Y4xgK9_vLfekJA/edit?usp=sharing)<!-- .element: class="small" -->
 
 <div style="float: right; width:30%;">
-<a href="https://presentations.meganlavengood.com/2025-tops.html"><img src="/tops/pres-tops.svg"></a>
+<a href="https://presentations.meganlavengood.com/2025-tops.html"><img src="/img/tops/pres-tops.svg"></a>
 </div>
 <div style="width:70%;">
 <section data-markdown>
