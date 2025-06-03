@@ -17,18 +17,19 @@ output: revealjs::revealjs_presentation
 
 # Instrumental Timbre</br>and Texture<br/>in Popular Song <!-- .element: class="r-fit-text" -->
 
-<div class="r-stretch"></div>
+<div class="r-stretch">
 <div class="row justify-content-between align-items-end px-2 g-2 small">
     <div class="col-md-4"><p>Megan Lavengood<br/><a href="mailto:mlavengo@gmu.edu">mlavengo@gmu.edu</a></p></div>
     <div class="col-md-4"><p><a style="font-family: 'Open Sans'; letter-spacing:0.1em; -webkit-text-fill-color: #fffaef; -webkit-text-stroke-width: 2px; -webkit-text-stroke-color: #553819; text-shadow: -3px 3px #fffaef, -4px 4px 1px gray, -6px 6px #fffaef, -7px 7px 2px gray;" href="https://www.mcgill.ca/tops2025/">TOPS</a><br/>Montreal, QC</br>June 5, 2025</p></div>
-    <div class="col-md-4"><p><a href="https://presentations.meganlavengood.com/2025-tops.html"><img src="/img/tops/pres-tops.svg" width="50%"></a><br/>Follow along</p></div>
+    <div class="col-md-4"><p><a href="https://presentations.meganlavengood.com/2025-tops.html"><img src="/img/tops/pres-tops.svg" style="max-height:50vh;" class="r-frame"></a><br/>Follow along</p></div>
+</div>
 </div>
 
 --
 
 ## [Bibliography](https://www.zotero.org/mlavengood/collections/2URXWKKL/item-list)
 
-<a href="https://www.zotero.org/mlavengood/collections/2URXWKKL/item-list"><img src="/img/tops/bibqr-tops.svg" width="50%"></a>
+<a href="https://www.zotero.org/mlavengood/collections/2URXWKKL/item-list"><img src="/img/tops/bibqr-tops.svg" width="50%"  class="r-frame"></a>
 
 ---
 
@@ -52,11 +53,11 @@ output: revealjs::revealjs_presentation
 
 ### Oppositional vocabulary
 
-[Lavengood (2020), \[1.9–19\]](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.lavengood.html)<!-- .element: class='r-fit-text' -->
+[Lavengood (2020), \[1.9–1.19\]](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.lavengood.html)<!-- .element: class='r-fit-text' -->
 
-<div class='container align-items-center'>
+::: .row align-items-center justify-content-between'>
 
-::: .col
+::: .col-md-6
 
 #### Spectral - sustain
 
@@ -69,14 +70,12 @@ output: revealjs::revealjs_presentation
 
 :::
 
-::: .col
+::: .col-md-6
 
 #### Spectral - attack
 
 -   _percussive / legato_
 -   _bright / dark_
-
-&nbsp;
 
 #### Pitch
 
@@ -85,7 +84,7 @@ output: revealjs::revealjs_presentation
 
 :::
 
-</div>
+:::
 
 --
 
@@ -99,9 +98,9 @@ output: revealjs::revealjs_presentation
     -   Lavengood (2020) compares to a clean electric guitar sound
     -   Other contexts need to have a more appropriate context
 
----
+--
 
-## Instrument-specific vocabulary
+### Instrument-specific vocabulary
 
 -   Lavengood (2020) is meant to be generally specific, but it was built with the DX7 in mind as a case study; probably best for pitched instruments.
 -   Vocal timbre: probably better to use Heidemann (2016) embodied terms
@@ -109,35 +108,11 @@ output: revealjs::revealjs_presentation
 
 --
 
-### Vocal timbre
-
-::: .container
-
-::: {style=width:25%;}
-
-:::
-
-::: {style=width:50%;}
-
-<img src="https://www.mtosmt.org/issues/mto.16.22.1/heidemann_table1.png" class="r-frame">
-
-:::
-
-::: {style=width:25%;}
-
-Heidemann (2016) <br/> Table 1 {style=text-align:right;}
-
-:::
-
-:::
-
---
-
-### Percussion timbre
+## Percussion timbre
 
 [Lavengood and Barranco (forthcoming)](https://www.zotero.org/mlavengood/collections/2URXWKKL/item-list)
 
-<div class='container align-items-center' style="text-align:left;">
+::: row align-items-center justify-content-between text-start
 
 ::: .col
 
@@ -166,14 +141,27 @@ Heidemann (2016) <br/> Table 1 {style=text-align:right;}
 
 :::
 
-</div>
+:::
 
-<aside class="notes">
+--
 
+### Tambourines
+
+-   _Brilliant/dark_. High overtones that continue beyond the initial attack. Threshold: 11,500 Hz.
+-   _Dry/wet_. Length of decay. Threshold: 0.7 seconds.
+-   _Pure/noisy_. Clarity of individual jingles. Pure: overtones of decay are visually thin and separated; noisy: thicker bands that are closer together.
+-   _Clicky/washy_. When shaken, measured with average spectral centroid measurements, and thus to the brightness of the shake. Threshold: 9000 Hz.
+
+<aside class='notes' data-markdown>
 -   _Brilliant/dark_. Percussionists associate a brilliant attack with one that has high overtones on striking the tambourine. To evaluate this, we measure the frequencies of these resonant overtones through spectrogram analysis, focusing on the frequencies that extend beyond the band of noise produced by the initial attack. For this analysis, we have chosen 11,500 Hz as our threshold: a tambourine with jingles resonating over 11,500 Hz is brilliant, while a tambourine with resonating jingles only below that value is dark.
 -   _Dry/wet_. A wet sound has a decay that lasts for a substantial period of time, while a dry sound has a shorter decay. We measure this using the struck tambourine samples, and our threshold is 0.7 seconds—anything above is wet, and anything below is dry.
 -   _Pure/noisy_. This opposition refers to the aural clarity of individual jingles in the sound when the tambourine is struck. On the spectrogram, a pure decay has overtones that are visually thin and separated from the other bands on the spectrogram. A noisy sound has thicker bands that are closer together, obscuring the pitches of the jingles.
 -   _Clicky/washy_. This is the only opposition that refers to the tambourine when shaken instead of struck; it correlates to average spectral centroid measurements, and thus to the brightness of the shake. Samples with a centroid of over 9000 Hz are considered washy, while those below 9000 are clicky. In practice a washy tambourine would be particularly good for a smooth, shimmery tambourine shake-roll, while a clicky tambourine shake would have more subtle micro-attacks that render better rhythmic clarity.
+</aside>
+
+--
+
+<aside class='notes' data-markdown> 
 -   _Simple/complex_. Percussionists tend to speak of triangles in terms of their simple or complex overtones. To evaluate this, we count the number of overtones above -110 dBV for each triangle sample, as shown in a spectrum plot of the sample at one second past the initial attack. For this study, we call triangles with less than eighteen such overtones simple, while those with eighteen or more are complex.
 -   _Bright/dark_. Similar to brilliant/dark when discussing tambourines, bright/dark references the presence of high-pitched overtones as the instrument decays. With tambourines, we look for the presence of overtones above the specified threshold, but with triangles, we are looking for overtones below the threshold—in this case, 1,300 Hz. In other words, all triangles have high and low overtones, but dark triangles have particularly noticeable low-frequency overtones. If a relatively strong partial is present at 1,300 Hz or below, we consider the instrument dark, due to the foregrounded presence of these lower overtones. If an instrument does not have activity at or below 1,300 Hz, we classify it as bright.
 -   _Beatless/beating_. These oppositions refer to acoustic beats created through interference between slightly different frequencies (not to be confused with triangle beaters), which may or may not be audible in the triangle’s decay. Visually, a beatless decay has thin, consistent lines on the spectrogram, while a beating decay has dotted lines.
@@ -201,14 +189,12 @@ Heidemann (2016) <br/> Table 1 {style=text-align:right;}
 
 ---
 
-## 2. Texture
+## 2. Texture: Functional Layers
 
 -   Expanding on work by [Allan Moore (2012)](https://www.zotero.org/mlavengood/collections/2URXWKKL/item-list)
 -   Traditional terms—homophony, polyphony, heterophony, monophony—are not very useful for analyzing pop (or classical…? …or anything?)
 
 --
-
-### Functional layers
 
 1. Explicit beat layer
 2. Functional bass layer
@@ -229,7 +215,7 @@ Heidemann (2016) <br/> Table 1 {style=text-align:right;}
 
 --
 
-<div class="row flex-wrap justify-content-between">
+::: .row flex-wrap justify-content-between
 
 ::: .col
 
@@ -250,13 +236,13 @@ Heidemann (2016) <br/> Table 1 {style=text-align:right;}
 
 :::
 
-</div>
+:::
 
 Moore (2012), 20
 
 --
 
-<div class="row flex-wrap justify-content-between">
+::: .row flex-wrap justify-content-between
 
 ::: .col
 
@@ -277,7 +263,7 @@ Moore (2012), 20
 
 :::
 
-</div>
+:::
 
 --
 
@@ -297,20 +283,19 @@ Moore (2012), 20
 
 [download mp3](https://gmuedu-my.sharepoint.com/:u:/g/personal/mlavengo_gmu_edu/EfrL_MJQkOhIiijUnpwF1toBt4kmLv1Sr1pKm9mjI01Vqw?e=cYIqHx) • [open shared doc](https://docs.google.com/spreadsheets/d/1nJwi_E87puVQSimMXNBFuaN0-aL51Y4xgK9_vLfekJA/edit?usp=sharing)<!-- .element: class="small" -->
 
-<div style="float: right; width:30%;">
-<a href="https://presentations.meganlavengood.com/2025-tops.html"><img src="/img/tops/pres-tops.svg"></a>
-</div>
-<div style="width:70%;">
-<section data-markdown>
-<textarea data-template>
+::: .row align-items-end ::: .col-md-9
 
 1. Identify instruments (by name, by timbre, onomotopoeia)
 2. Categorize instruments as belonging to functional layers (melody, harmony, bass, beat, novelty)
 3. Transcribe rhythmic motives
 
-</textarea>
-</section>
-</div>
+:::
+
+::: .col-md-3
+
+[![QR](/img/tops/pres-tops.svg)](https://presentations.meganlavengood.com/2025-tops.html)
+
+::: :::
 
 --
 
@@ -318,7 +303,67 @@ Moore (2012), 20
 
 <iframe style="border: 0; width: 100%; max-width: 700px; height: 120px; margin-left: auto; margin-right: auto;" data-src="https://bandcamp.com/EmbeddedPlayer/album=2765736108/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/artwork=small/track=448110133/transparent=true/" seamless><a href="https://jlin.bandcamp.com/album/black-origami">Black Origami by Jlin</a></iframe>
 
--   How do we need to modify functional layer definitions to accommodate music like this?
--   What does that tell us about all pop music textures?
+How do we need to modify functional layer definitions to accommodate music like this?
+
+#### Explicit Beat Layer
+
+-   "articulate[s] an explicit pattern of beats"
+-   uses unpitched percussion
+-   part of the song's groove
+
+--
+
+## Discussion: Jlin
+
+<iframe style="border: 0; width: 100%; max-width: 700px; height: 120px; margin-left: auto; margin-right: auto;" data-src="https://bandcamp.com/EmbeddedPlayer/album=2765736108/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/artwork=small/track=448110133/transparent=true/" seamless><a href="https://jlin.bandcamp.com/album/black-origami">Black Origami by Jlin</a></iframe>
+
+How do we need to modify functional layer definitions to accommodate music like this?
+
+#### Functional bass layer
+
+-   "connect[s] root position harmonies in one or more ways"
+-   also part of the groove
+
+--
+
+## Discussion: Jlin
+
+<iframe style="border: 0; width: 100%; max-width: 700px; height: 120px; margin-left: auto; margin-right: auto;" data-src="https://bandcamp.com/EmbeddedPlayer/album=2765736108/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/artwork=small/track=448110133/transparent=true/" seamless><a href="https://jlin.bandcamp.com/album/black-origami">Black Origami by Jlin</a></iframe>
+
+How do we need to modify functional layer definitions to accommodate music like this?
+
+#### Melodic layer
+
+-   primary and secondary melodic lines; "the tune"
+-   "articulate[s] the songs lyrics"
+-   most memorable and identifiable
+
+--
+
+## Discussion: Jlin
+
+<iframe style="border: 0; width: 100%; max-width: 700px; height: 120px; margin-left: auto; margin-right: auto;" data-src="https://bandcamp.com/EmbeddedPlayer/album=2765736108/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/artwork=small/track=448110133/transparent=true/" seamless><a href="https://jlin.bandcamp.com/album/black-origami">Black Origami by Jlin</a></iframe>
+
+How do we need to modify functional layer definitions to accommodate music like this?
+
+#### Harmonic filler layer
+
+-   "fill[s] the 'registral space' between these bass and treble layers"
+-   contributes greatly to a listener's sense of genre in a song
+
+--
+
+## Discussion: Jlin
+
+<iframe style="border: 0; width: 100%; max-width: 700px; height: 120px; margin-left: auto; margin-right: auto;" data-src="https://bandcamp.com/EmbeddedPlayer/album=2765736108/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/artwork=small/track=448110133/transparent=true/" seamless><a href="https://jlin.bandcamp.com/album/black-origami">Black Origami by Jlin</a></iframe>
+
+What does our analysis of "Hatshepsut" tell us about pop music textures more generally?
 
 ---
+
+## Reflection
+
+(probably preaching to the choir!)
+
+-   Texture has a lot to do with domains besides pitch, especially rhythm and timbre.
+-   Looking at EDM forces us to concentrate more on rhythm and timbre, since these domains are more salient than pitch.

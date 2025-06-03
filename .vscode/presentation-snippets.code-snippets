@@ -14,18 +14,6 @@
 		"description": "Add revealjs comment to create fragments"
 	},
 
-
-	"Add presenter notes": {
-		"prefix": "-notes",
-		"body": [
-			"<aside class=\"notes\">",
-			"$1",
-			"</aside>"
-		],
-		"description": "Add notes to display in speaker view only"
-	},
-
-
 	"fit-text": {
 		"prefix": "-fit",
 		"body": [
