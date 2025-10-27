@@ -11,7 +11,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
     <style>
         html {
-            font-size: 3rem;
+            font-size: 4rem;
         }
 
     </style>
@@ -19,15 +19,15 @@
 
 <body>
     <main>
-        <div class="container-md text-center p-1 py-3 p-md-5">
+        <div class="container-md text-center py-3 p-lg-5">
 
             <div class="col">
 
                 <p id="safeTimerDisplay" class="h1">20:00</p>
             </div>
-            <button id="startButton" onclick="startTimer()" class="btn btn-outline-secondary btn-sm">Start Timer</button>
-            <div class="col mt-5">
-                <div class="hidden" role="alert" id="alert">
+            <button id="startButton" onclick="startTimer()" class="btn btn-outline-secondary btn-sm">Start</button>
+            <div class="col mt-1">
+                <div class="invisible" role="alert" id="alert">
                 </div>
             </div>
         </div>
@@ -50,10 +50,17 @@
                 // Format display with leading zeros
                 const display = String(minutes).padStart(2, '0') + ':' + String(seconds).padStart(2, '0');
                 document.getElementById('safeTimerDisplay').innerHTML = display;
-
+                if (timeRemaining >= 300) {
+                    document.body.style.backgroundColor = "unset";
+                    document.getElementById('startButton').setAttribute("class", "btn btn-outline-secondary btn-sm");
+                    document.getElementById('startButton').innerHTML = "Start";
+                    document.getElementById('alert').innerHTML = "";
+                    document.getElementById('alert').setAttribute("class", "invisible");
+                }
                 if (timeRemaining === 300) {
                     document.getElementById('alert').setAttribute("class", "alert alert-warning h1");
-                    document.getElementById('alert').innerHTML = "<strong>⚠️ <5 minutes</strong>";
+                    document.getElementById('alert').innerHTML = "<strong>⚠️ <5 mins</strong>";
+                    document.body.style.backgroundColor = "#ffe69c";
                 }
                 if (timeRemaining === 120) {
                     document.getElementById('alert').setAttribute("class", "alert alert-warning h1");
@@ -63,8 +70,11 @@
                     clearInterval(countdown);
                     document.getElementById('safeTimerDisplay').innerHTML = '0:00';
                     document.getElementById('startButton').disabled = false;
-                    document.getElementById('alert').setAttribute("class", "alert alert-danger h3");
+                    document.getElementById('alert').setAttribute("class", "alert alert-danger h1");
                     document.getElementById('alert').innerHTML = "🛑 STOP NOW";
+                    document.body.style.backgroundColor = "#f1aeb5";
+                    document.getElementById('startButton').innerHTML = "Restart";
+                    document.getElementById('startButton').setAttribute("class", "btn btn-outline-danger btn-sm");
                     isRunning = false;
                     timeRemaining = 20 * 60; // Reset for next use
                 } else {
