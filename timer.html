@@ -33,18 +33,9 @@
         </div>
     </main>
     <script>
-        let prompt = window.prompt("Enter talk length in minutes", "20");
-        let minutePrompt = parseInt(prompt);
-        if (minutePrompt(isNaN)) {
-            window.alert("Enter a number.")
-        }
         let countdown;
-        let timeRemaining = minutePrompt * 60; // 20 minutes in seconds
+        let timeRemaining = 20 * 60; // 20 minutes in seconds
         let isRunning = false;
-
-        // Update initial display
-        const initialDisplay = String(minutePrompt).padStart(2, '0') + ':00';
-        document.getElementById('safeTimerDisplay').innerHTML = initialDisplay;
 
         function startTimer() {
             if (isRunning) return; // Prevent multiple timers
@@ -75,7 +66,7 @@
                     document.getElementById('alert').setAttribute("class", "alert alert-danger h3");
                     document.getElementById('alert').innerHTML = "🛑 STOP NOW";
                     isRunning = false;
-                    timeRemaining = minutePrompt * 60; // Reset for next use
+                    timeRemaining = 20 * 60; // Reset for next use
                 } else {
                     timeRemaining--;
                 }
