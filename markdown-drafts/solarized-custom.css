@@ -1,0 +1,43 @@
+/**
+ * Solarized Light theme for reveal.js.
+ * Author: Achim Staebler
+ */
+
+@import url("https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:wght@800&display=swap");
+/**
+ * Solarized colors by Ethan Schoonover
+ */
+html * {
+	color-profile: sRGB;
+	rendering-intent: auto;
+}
+
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+:root {
+	--r-background-color: #fffaef;
+	--r-main-font: "Gentium Book Plus", serif;
+	--r-main-font-size: 40px;
+	--r-main-color: #553819;
+	--r-block-margin: 20px;
+	--r-heading-margin: 0 0 20px 0;
+	--r-heading-font: "Open Sans", sans-serif;
+	--r-heading-color: #553819;
+	--r-heading-line-height: 1.2;
+	--r-heading-letter-spacing: normal;
+	--r-heading-text-transform: uppercase;
+	--r-heading-text-shadow: none;
+	--r-heading-font-weight: normal;
+	--r-heading1-text-shadow: none;
+	--r-heading1-size: 3.77em;
+	--r-heading2-size: 2.11em;
+	--r-heading3-size: 1.55em;
+	--r-heading4-size: 1em;
+	--r-code-font: monospace;
+	--r-link-color: #730071;
+	--r-link-color-dark: #410040;
+	--r-link-color-hover: #e000dd;
+	--r-selection-background-color: #d33682;
+	--r-selection-color: #fff;
+}

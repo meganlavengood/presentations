@@ -50,6 +50,7 @@
                 // Format display with leading zeros
                 const display = String(minutes).padStart(2, '0') + ':' + String(seconds).padStart(2, '0');
                 document.getElementById('safeTimerDisplay').innerHTML = display;
+
                 if (timeRemaining >= 300) {
                     document.body.style.backgroundColor = "unset";
                     document.getElementById('startButton').setAttribute("class", "btn btn-outline-secondary btn-sm");
