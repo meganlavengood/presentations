@@ -117,6 +117,7 @@ html * {
 
 .reveal h1 {
 	text-shadow: var(--r-heading1-text-shadow);
+	border-bottom: 5px solid #e0aa38ff;
 }
 
 hr {
@@ -411,4 +412,29 @@ hr {
 	.backgrounds {
 		background-color: var(--r-background-color);
 	}
+}
+
+/*********************************************
+ * Custom styles
+ *********************************************/
+
+.container {
+	display: flex;
+	justify-content: space-between;
+}
+.col {
+	flex: 1;
+	padding: 1rem;
+}
+
+.align-items-start {
+	align-items: start;
+}
+
+.align-items-center {
+	align-items: center;
+}
+
+.align-items-end {
+	align-items: end;
 }
