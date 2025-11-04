@@ -31,7 +31,7 @@
 	},
 
 	"auto animate": {
-		"prefix": "-auto",
+		"prefix": "-animate",
 		"body": "<!-- .element: data-auto-animate=\"true\" -->",
 		"description": "Apply to both slides to auto-animate between them"
 	},

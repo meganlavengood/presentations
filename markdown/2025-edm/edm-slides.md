@@ -9,13 +9,13 @@
 
 <div class="col">
 <p>Slides</p>
-<img data-preview-image data-preview-fit="contain" src="/img/edm/qr-slides.svg" width=300>
+<img data-preview-image data-preview-fit="contain" src="/markdown/2025-edm/qr-slides.svg" width=300>
 
 </div>
 
 <div class="col">
-<p><a href="/img/edm/edm-timbre-ped-handout.pdf" target=_blank>Lesson plans <i class="bi bi-file-pdf-fill"></i></a></p>
-<img data-preview-image data-preview-fit="contain" src="/img/edm/qr-handout.svg" width=300>
+<p><a href="/markdown/2025-edm/edm-timbre-ped-handout.pdf" target=_blank>Lesson plans <i class="bi bi-file-pdf-fill"></i></a></p>
+<img data-preview-image data-preview-fit="contain" src="/markdown/2025-edm/qr-handout.svg" width=300>
 
 </div></div>
 
@@ -25,12 +25,12 @@
 
 <div class="col">
 <p>Slides</p>
-<img data-preview-image data-preview-fit="contain" src="/img/edm/qr-slides.svg" style="width:100%;">
+<img data-preview-image data-preview-fit="contain" src="/markdown/2025-edm/qr-slides.svg" style="width:100%;">
 </div>
 
 <div class="col">
-<p><a href="/img/edm/edm-timbre-ped-handout.pdf" target=_blank>Lesson plans <i class="bi bi-file-pdf-fill"></i></a><br/></p>
-<img data-preview-image data-preview-fit="contain" src="/img/edm/qr-handout.svg" style="width:100%;">
+<p><a href="/markdown/2025-edm/edm-timbre-ped-handout.pdf" target=_blank>Lesson plans <i class="bi bi-file-pdf-fill"></i></a><br/></p>
+<img data-preview-image data-preview-fit="contain" src="/markdown/2025-edm/qr-handout.svg" style="width:100%;">
 
 </div></div>
 
@@ -66,7 +66,7 @@ As a bonus, it turns out that according to Fales's research, listening in this w
 <div class="container">
 
 <div class="col">
-<p><b><a href="/img/edm/edm-timbre-ped-handout.pdf" target=_blank>Four lessons</a></b></p>
+<p><b><a href="/markdown/2025-edm/edm-timbre-ped-handout.pdf" target=_blank>Four lessons</a></b></p>
 <ol>
 <li>Texture in pop music</li>
 <li>Timbre vocabulary</li>
@@ -77,8 +77,8 @@ As a bonus, it turns out that according to Fales's research, listening in this w
 </div>
 
 <div class="col">
-<p><a href="/img/edm/edm-timbre-ped-handout.pdf" target=_blank>Lesson plans <i class="bi bi-file-pdf-fill"></i></a><br/></p>
-<img data-preview-image data-preview-fit="contain" src="/img/edm/qr-handout.svg" style="height:100%;">
+<p><a href="/markdown/2025-edm/edm-timbre-ped-handout.pdf" target=_blank>Lesson plans <i class="bi bi-file-pdf-fill"></i></a><br/></p>
+<img data-preview-image data-preview-fit="contain" src="/markdown/2025-edm/qr-handout.svg" style="height:100%;">
 
 </div></div>
 
@@ -91,7 +91,7 @@ As a bonus, it turns out that according to Fales's research, listening in this w
 <div class="container align-items-center">
 
 <div class="col">
-<p><b><a href="/img/edm/edm-timbre-ped-handout.pdf" target=_blank>Four lessons</a></b></p>
+<p><b><a href="/markdown/2025-edm/edm-timbre-ped-handout.pdf" target=_blank>Four lessons</a></b></p>
 <ol>
 <li>Texture in pop music</li>
 <li>Timbre vocabulary</li>
@@ -137,14 +137,8 @@ As a bonus, it turns out that according to Fales's research, listening in this w
 
 ## 1. Texture in pop music
 
-### Learning objectives
-
-By the end of the class, students will be able to:
-
--   Enumerate and characterize five functional layers of texture in pop music
--   Assign sounds to a functional layer
--   Diagram functional layers in a song
--   Compare functional layers between different pop songs
+-   **5 functional layers: explicit beat, functional bass, harmonic filler, melody, novelty**
+-   Texture is separate from but intertwined with timbre
 
 --
 
@@ -188,12 +182,14 @@ This chapter take students through the definitions and examples of each of the f
 
 ## 1. Texture in pop music
 
-### Takeaways
+### Learning objectives
 
--   Texture is separate from but intertwined with timbre
--   Texture is easier to talk about when sound sources are easily identified, as in pop-rock
--   In EDM, sound sources are unclear; more challenging
--   But when sources are unclear, this forces us to talk in terms of **timbre**
+By the end of the class, students will be able to:
+
+-   Enumerate and characterize five functional layers of texture in pop music
+-   Assign sounds to a functional layer
+-   Diagram functional layers in a song
+-   Compare functional layers between different pop songs
 
 ---
 
@@ -207,16 +203,11 @@ This chapter take students through the definitions and examples of each of the f
 
 ## 2. Timbre vocabulary
 
-### Learning objectives
-
-By the end of the class, students will be able to:
-
--   Distinguish terms within an oppositional pair of timbre descriptors
--   Assign timbre descriptors to sound signals
-
-<aside class='notes' data-markdown>
-One major issue I encountered in teaching these timbre terms was that students brought in strong feelings about the meanings of certain words. And this is an issue with timbre analysis in general. People already have a vocabulary they're using to describe timbre, but it's often entirely scrutinized, and culturally dependent. A big part of this lesson is getting students to buy into the idea that a shared lexicon is useful, even if that lexicon has imperfections or limited applicability.
-</aside>
+-   Texture is easier to talk about when sound sources are easily identified, as in pop-rock
+-   In EDM, sound sources are unclear; more challenging
+-   But when sources are unclear, this forces us to talk in terms of timbre
+-   Timbre is perceptually influenced and contextual
+-   Sometimes terms mean different things to different people
 
 --
 
@@ -229,6 +220,10 @@ One major issue I encountered in teaching these timbre terms was that students b
 -   Define timbre briefly (what makes an instrument or voice sound like itself; how we identify sound sources)
 -   Ask students for their own examples of timbre terms; as disagreement or confusion arises, point out that different people understand these words differently, and so it's important to established shared definitions
 -   Offer [Lavengood (2020)](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.lavengood.html) as one option to stick with for the module
+
+<aside class='notes' data-markdown>
+One major issue I encountered in teaching these timbre terms was that students brought in strong feelings about the meanings of certain words. And this is an issue with timbre analysis in general. People already have a vocabulary they're using to describe timbre, but it's often entirely scrutinized, and culturally dependent. A big part of this lesson is getting students to buy into the idea that a shared lexicon is useful, even if that lexicon has imperfections or limited applicability.
+</aside>
 
 --
 
@@ -272,7 +267,7 @@ Important points:
 
 ### Lesson plan
 
--   Hand out [opposition charts](/img/edm/edm-timbre-ped-handout.pdf) (printable from handout)
+-   Hand out [opposition charts](/markdown/2025-edm/edm-timbre-ped-handout.pdf) (printable from handout)
 -   Go through each term and its accompanying video example from Section 1 of Lavengood (2020)
 -   Common sticking points:
     -   noisy ≠ bad; relates to noise as an acoustic concept
@@ -306,11 +301,12 @@ Important points:
 
 ## 2. Timbre vocabulary
 
-### Takeaways
+### Learning objectives
 
--   Timbre is especially useful when instruments aren't useful identifiers
--   Timbre is perceptually influenced and contextual
--   Sometimes terms mean different things to different people
+By the end of the class, students will be able to:
+
+-   Distinguish terms within an oppositional pair of timbre descriptors
+-   Assign timbre descriptors to sound signals
 
 ---
 
@@ -324,12 +320,9 @@ Important points:
 
 ## 3. Unpitched percussion timbre
 
-### Learning Objectives
-
-By the end of the class, students will be able to:
-
--   Distinguish terms within an oppositional pair of timbre descriptors
--   Assign timbre descriptors to **unpitched percussion sound signals**
+-   Having ~~mastered~~ learned about timbre in the context of pitched instruments, we can see to what extent this vocabulary is useful for unpitched instruments.
+-   Many people tune out details of percussion; we will learn to listen closely to percussion instead
+-   EDM foregrounds percussion, making it an ideal repertoire to learn with
 
 _This is challenging for many people, especially musicians who have focused extensively on pitch and piched instruments._
 
@@ -351,7 +344,7 @@ Preliminaries
 
 -   Define "unpitched percussion"
 -   Refer back to Lavengood (2020) timbre vocabulary: what will be less useful? what will be more useful?
--   Distribute [customizable opposition charts](/img/edm/edm-timbre-ped-handout.pdf) (printable in handout)
+-   Distribute [customizable opposition charts](/markdown/2025-edm/edm-timbre-ped-handout.pdf) (printable in handout)
 
 --
 
@@ -405,6 +398,19 @@ Preliminaries
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sLtnbR9H48I?si=IlX7jUP-tBAYqy_q&amp;start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+--
+
+<!-- .element: data-auto-animate="true" -->
+
+## 3. Unpitched Percussion Timbre
+
+### Learning Objectives
+
+By the end of the class, students will be able to:
+
+-   Distinguish terms within an oppositional pair of timbre descriptors
+-   Assign timbre descriptors to **unpitched percussion sound signals**
+
 ---
 
 <!-- .element: data-auto-animate="true" -->
@@ -417,12 +423,9 @@ Preliminaries
 
 ## 4. Percussion's Role in Texture
 
-### Learning objectives
-
-By the end of the class, students will be able to:
-
--   Critique the five functional layers of texture in pop music
--   Analyze unpitched percussion music with functional layers
+-   Students are now more comfortable thinking about percussion
+-   Just as percussion problematizes our timbre vocabulary, it also problematizes the texture vocabulary
+-   Because percussion is so central to EDM, this repertorie challenges automatic categorization of percussion as belonging to the "explicit beat layer"
 
 --
 
@@ -495,6 +498,19 @@ Assignment goals:
 -   Use timbre vocabulary as needed
 -   Write a 200–300 word reflection: How did you determine which instruments belong to which layer? How did timbre factor into your decisions, if at all? What other musical domains influenced your decisions (rhythm? register? form?)?
 
+--
+
+<!-- .element: data-auto-animate="true" -->
+
+## 4. Percussion's Role in Texture
+
+### Learning objectives
+
+By the end of the class, students will be able to:
+
+-   Critique the five functional layers of texture in pop music
+-   Analyze unpitched percussion music with functional layers
+
 ---
 
 ## Conclusion
@@ -510,18 +526,18 @@ Assignment goals:
 <div class="container">
 <div class="col">
 <p><a href="https://www.zotero.org/mlavengood/collections/LGAQSUZI/item-list" target=_blank>Bibliography</a></p>
-<img data-preview-image data-preview-fit="contain" src="/img/edm/qr-bib.svg" width=100%>
+<img data-preview-image data-preview-fit="contain" src="/markdown/2025-edm/qr-bib.svg" width=100%>
 </div>
 
 <div class="col">
 <p>Slides</p>
-<img data-preview-image data-preview-fit="contain" src="/img/edm/qr-slides.svg" width=100%>
+<img data-preview-image data-preview-fit="contain" src="/markdown/2025-edm/qr-slides.svg" width=100%>
 
 </div>
 
 <div class="col">
-<p><a href="/img/edm/edm-timbre-ped-handout.pdf" target=_blank>Lesson plans <i class="bi bi-file-pdf-fill"></i></a></p>
-<img data-preview-image data-preview-fit="contain" src="/img/edm/qr-handout.svg" width=100%>
+<p><a href="/markdown/2025-edm/edm-timbre-ped-handout.pdf" target=_blank>Lesson plans <i class="bi bi-file-pdf-fill"></i></a></p>
+<img data-preview-image data-preview-fit="contain" src="/markdown/2025-edm/qr-handout.svg" width=100%>
 
 </div></div>
 
