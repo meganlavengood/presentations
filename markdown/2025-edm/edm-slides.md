@@ -34,34 +34,24 @@
 
 </div></div>
 
+Or go to [presentations.meganlavengood.com](https://presentations.meganlavengood.com) <!-- .element: class="r-fit-text" -->
+
 ---
 
 ## Inspiration
 
 Cornelia Fales, "Hearing Timbre: Perceptual Learning among Early Bay Area Ravers"
 
--   EDM (generally) avoids complex, teleological chord progressions and vocals
--   These elements demand attention when present
--   **When absent, listeners can focus more easily on timbre**
--   EDM aficionados actually see this timbral attentiveness as hearing EDM "correctly"
-
-<aside class='notes' data-markdown>
-
-Legendary timbre scholar Cornelia Fales wrote a book chapter in 2018 that used the archives of a listserv to perform digital ethnography on a group of 1990s ravers.
-
-The article discusses a connection between the fringe status of EDM (at the time at least) and its "nonspecificity." She documents that these EDM listeners prioritized nonspecificity in their timbres by preferring timbres with ambiguous or disconnected sound sources, and rejecting vocals with meaningful lyrics as distracting and disruptive.
-
-Citing perception studies, Fales argues that the musical features of EDM actually promote and support timbral attentiveness. This is important for pedagogues of timbre: by de-emphasizing more familiar domains of focus, we can more easily get students to pay attention to timbre.
-
-As a bonus, it turns out that according to Fales's research, listening in this way can improve one's appreciation for EDM. It's true that much EDM lacks vocals, easily-identifiable instruments, and some music theory comfort objects like teleological progressions. This can make EDM seem hard to understand, but if we learn to hear in this new timbre-focused way, we would be hearing more like the EDM community would.
-
-</aside>
+-   EDM (generally) avoids complex, teleological chord progressions and vocals <!-- .element: class="fragment" data-fragment-index="1" -->
+-   These elements demand attention when present <!-- .element: class="fragment" data-fragment-index="2" -->
+-   **When absent, listeners can focus more easily on timbre** <!-- .element: class="fragment" data-fragment-index="2" -->
+-   EDM aficionados actually see this timbral attentiveness as hearing EDM "correctly" <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ---
 
 <!-- .element: data-auto-animate="true" -->
 
-## Timbre in EDM Learning Module
+## Timbre in EDM Learning Module <!-- .element: class="r-fit-text" -->
 
 <div class="container">
 
@@ -86,7 +76,7 @@ As a bonus, it turns out that according to Fales's research, listening in this w
 
 <!-- .element: data-auto-animate="true" -->
 
-## Timbre in EDM Learning Module
+## Timbre in EDM Learning Module <!-- .element: class="r-fit-text" -->
 
 <div class="container align-items-center">
 
@@ -113,16 +103,16 @@ As a bonus, it turns out that according to Fales's research, listening in this w
 
 <!-- .element: data-auto-animate="true" -->
 
-## Timbre in EDM Learning Module
+## Timbre in EDM Learning Module <!-- .element: class="r-fit-text" -->
 
 <ol>
 <li>Texture in pop music</li>
-<li style="list-style-type:none;color:var(--r-link-color);font-size:90%;">└ Beginning with <strong>texture</strong>: concrete, salient, simpler to describe</li>
+<li style="list-style-type:none;color:var(--r-link-color);font-size:90%;">└ Beginning with texture: concrete, salient, simpler to describe</li> <!-- .element: class="fragment" data-fragment-index="1" -->
 <li value="2">Timbre vocabulary</li>
-<li style="list-style-type:none;color:var(--r-link-color);font-size:90%;">└ <strong>Timbre</strong> becomes a logical next topic, since the &quot;sourcelessness&quot; of EDM makes it hard to talk about the &quot;instruments&quot; of each layer in the texture.</li>
+<li style="list-style-type:none;color:var(--r-link-color);font-size:90%;">└ Timbre becomes a logical next topic, since the &quot;sourcelessness&quot; of EDM makes it hard to talk about the &quot;instruments&quot; of each layer in the texture.</li> <!-- .element: class="fragment" data-fragment-index="2" -->
 <li value="3">Unpitched percussion timbre</li>
 <li>Percussion's role in texture</li>
-<li style="list-style-type:none;color:var(--r-link-color);font-size:90%;">└ Using <strong>percussion</strong> to stress test timbre and texture concepts</li>
+<li style="list-style-type:none;color:var(--r-link-color);font-size:90%;">└ Using percussion to stress test timbre and texture concepts</li> <!-- .element: class="fragment" data-fragment-index="3" -->
 </ol>
 
 ---
@@ -152,7 +142,7 @@ As a bonus, it turns out that according to Fales's research, listening in this w
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3552017559/size=small/bgcol=ffffff/linkcol=0687f5/track=2010884047/transparent=true/" seamless><a href="https://vulfpeck.bandcamp.com/album/the-joy-of-music-the-job-of-real-estate-2">The Joy of Music, The Job of Real Estate by Vulfpeck</a></iframe>
 
-<aside class='notes' data-markdown>
+<aside class="notes" data-markdown>
 This chapter take students through the definitions and examples of each of the functional layers defined by Alan Moore and myself. This chapter is not specifically a tuned to EDM, but rather is meant to apply to most popular music genres, including EDM. I would not start with an EDM example, however. EDM poses particular challenges for timber and texture analysis.
 </aside>
 
@@ -206,8 +196,6 @@ By the end of the class, students will be able to:
 -   Texture is easier to talk about when sound sources are easily identified, as in pop-rock
 -   In EDM, sound sources are unclear; more challenging
 -   But when sources are unclear, this forces us to talk in terms of timbre
--   Timbre is perceptually influenced and contextual
--   Sometimes terms mean different things to different people
 
 --
 
@@ -220,10 +208,6 @@ By the end of the class, students will be able to:
 -   Define timbre briefly (what makes an instrument or voice sound like itself; how we identify sound sources)
 -   Ask students for their own examples of timbre terms; as disagreement or confusion arises, point out that different people understand these words differently, and so it's important to established shared definitions
 -   Offer [Lavengood (2020)](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.lavengood.html) as one option to stick with for the module
-
-<aside class='notes' data-markdown>
-One major issue I encountered in teaching these timbre terms was that students brought in strong feelings about the meanings of certain words. And this is an issue with timbre analysis in general. People already have a vocabulary they're using to describe timbre, but it's often entirely scrutinized, and culturally dependent. A big part of this lesson is getting students to buy into the idea that a shared lexicon is useful, even if that lexicon has imperfections or limited applicability.
-</aside>
 
 --
 
@@ -248,7 +232,7 @@ Opposition Table Example
 |             _low / high_ |                         |
 |      _steady / wavering_ |                         |
 
-<aside class='notes' data-markdown>
+<aside class="notes" data-markdown>
 Important points:
 
 -   terms are grouped into oppositional pairs; each term helps define its opposite
@@ -269,9 +253,12 @@ Important points:
 
 -   Hand out [opposition charts](/markdown/2025-edm/edm-timbre-ped-handout.pdf) (printable from handout)
 -   Go through each term and its accompanying video example from Section 1 of Lavengood (2020)
--   Common sticking points:
-    -   noisy ≠ bad; relates to noise as an acoustic concept
-    -   _rich/sparse_ is similar to _full/hollow_ but doesn't rely on harmonic series
+
+<small>(An _Open Music Theory_ chapter is coming… someday…)</small>
+
+--
+
+<!-- .element: data-background-iframe="https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.lavengood.html" data-background-interactive -->
 
 --
 
@@ -286,7 +273,7 @@ Important points:
 -   Presentation and discussion
 -   **Assignment: complete an analysis of (5/10/all) of the sounds used in the track.**
 
-<aside class='notes' data-markdown>
+<aside class="notes" data-markdown>
 - Ask each group to explain which sounds and terms they chose
 - Discussion questions:
   - Where did two groups analyze the same sounds differently? What might be an explanation?
@@ -312,13 +299,13 @@ By the end of the class, students will be able to:
 
 <!-- .element: data-auto-animate="true" -->
 
-## 3. Unpitched percussion timbre
+## 3. Unpitched percussion timbre <!-- .element: class="r-fit-text" -->
 
 --
 
 <!-- .element: data-auto-animate="true" -->
 
-## 3. Unpitched percussion timbre
+## 3. Unpitched percussion timbre <!-- .element: class="r-fit-text" -->
 
 -   Having ~~mastered~~ learned about timbre in the context of pitched instruments, we can see to what extent this vocabulary is useful for unpitched instruments.
 -   Many people tune out details of percussion; we will learn to listen closely to percussion instead
@@ -326,7 +313,7 @@ By the end of the class, students will be able to:
 
 _This is challenging for many people, especially musicians who have focused extensively on pitch and piched instruments._
 
-<aside class='notes' data-markdown>
+<aside class="notes" data-markdown>
 
 I deliberately said "musicians" and not "students" because this can be challenging for instructors also. But as we've mentioned, the spirit of critical pedagogy is to allow ourselves to be uncomfortable and see the students more as equal co-learners.
 
@@ -336,7 +323,7 @@ I deliberately said "musicians" and not "students" because this can be challengi
 
 <!-- .element: data-auto-animate="true" -->
 
-## 3. Unpitched percussion timbre
+## 3. Unpitched percussion timbre <!-- .element: class="r-fit-text" -->
 
 ### Lesson plan
 
@@ -350,7 +337,7 @@ Preliminaries
 
 <!-- .element: data-auto-animate="true" -->
 
-## 3. Unpitched percussion timbre
+## 3. Unpitched percussion timbre <!-- .element: class="r-fit-text" -->
 
 ### Lesson plan
 
@@ -366,7 +353,7 @@ Preliminaries
 
 <!-- .element: data-auto-animate="true" -->
 
-## 3. Unpitched percussion timbre
+## 3. Unpitched percussion timbre <!-- .element: class="r-fit-text" -->
 
 ### Lesson plan
 
@@ -380,7 +367,7 @@ Preliminaries
 
 <!-- .element: data-auto-animate="true" -->
 
-## 3. Unpitched percussion timbre
+## 3. Unpitched percussion timbre <!-- .element: class="r-fit-text" -->
 
 ### Lesson plan
 
@@ -392,7 +379,7 @@ Preliminaries
 
 <!-- .element: data-auto-animate="true" -->
 
-## 3. Unpitched percussion timbre
+## 3. Unpitched percussion timbre <!-- .element: class="r-fit-text" -->
 
 ### Assignment: [TR-909 "Workout"](https://www.youtube.com/watch?v=sLtnbR9H48I)
 
@@ -415,13 +402,13 @@ By the end of the class, students will be able to:
 
 <!-- .element: data-auto-animate="true" -->
 
-## 4. Percussion's Role in Texture
+## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
 
 --
 
 <!-- .element: data-auto-animate="true" -->
 
-## 4. Percussion's Role in Texture
+## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
 
 -   Students are now more comfortable thinking about percussion
 -   Just as percussion problematizes our timbre vocabulary, it also problematizes the texture vocabulary
@@ -431,7 +418,7 @@ By the end of the class, students will be able to:
 
 <!-- .element: data-auto-animate="true" -->
 
-## 4. Percussion's Role in Texture
+## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
 
 ### Lesson Plan
 
@@ -444,7 +431,7 @@ By the end of the class, students will be able to:
 
 <!-- .element: data-auto-animate="true" -->
 
-## 4. Percussion's Role in Texture
+## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
 
 ### Lesson Plan
 
@@ -458,7 +445,7 @@ Small group work
 
 <!-- .element: data-auto-animate="true" -->
 
-## 4. Percussion's Role in Texture
+## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
 
 ### Lesson Plan
 
@@ -472,7 +459,7 @@ Discussion
 
 <!-- .element: data-auto-animate="true" -->
 
-## 4. Percussion's Role in Texture
+## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
 
 ### Assignment: Jlin, "Hatshepsut"
 
@@ -487,7 +474,7 @@ In class preparation
 
 <!-- .element: data-auto-animate="true" -->
 
-## 4. Percussion's Role in Texture
+## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
 
 ### Assignment: Jlin, "Hatshepsut"
 
@@ -502,7 +489,7 @@ Assignment goals:
 
 <!-- .element: data-auto-animate="true" -->
 
-## 4. Percussion's Role in Texture
+## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
 
 ### Learning objectives
 
