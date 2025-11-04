@@ -438,3 +438,7 @@ hr {
 .align-items-end {
 	align-items: end;
 }
+
+.opp-table {
+	font-size: 80%;
+}

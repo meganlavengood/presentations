@@ -25,18 +25,22 @@
 
 <div class="col">
 <p>Slides</p>
-<img data-preview-image data-preview-fit="contain" src="/markdown/2025-edm/qr-slides.svg" style="width:100%;">
+<img data-preview-image data-preview-fit="contain" src="/markdown/2025-edm/qr-slides.svg" style="width:85%;">
 </div>
 
 <div class="col">
 <p><a href="/markdown/2025-edm/edm-timbre-ped-handout.pdf" target=_blank>Lesson plans <i class="bi bi-file-pdf-fill"></i></a><br/></p>
-<img data-preview-image data-preview-fit="contain" src="/markdown/2025-edm/qr-handout.svg" style="width:100%;">
+<img data-preview-image data-preview-fit="contain" src="/markdown/2025-edm/qr-handout.svg" style="width:85%;">
 
 </div></div>
 
 Or go to [presentations.meganlavengood.com](https://presentations.meganlavengood.com) <!-- .element: class="r-fit-text" -->
 
 ---
+
+## Inspiration
+
+--
 
 ## Inspiration
 
@@ -217,8 +221,6 @@ By the end of the class, students will be able to:
 
 ### Lesson plan
 
-Opposition Table Example
-
 |    opposition<br/> − / + | [some sound]</br>&nbsp; |
 | -----------------------: | :---------------------: |
 |          _bright / dark_ |            -            |
@@ -231,6 +233,8 @@ Opposition Table Example
 | _bright / dark_ (attack) |                         |
 |             _low / high_ |                         |
 |      _steady / wavering_ |                         |
+
+<!-- .element: class="opp-table" -->
 
 <aside class="notes" data-markdown>
 Important points:
@@ -252,13 +256,11 @@ Important points:
 ### Lesson plan
 
 -   Hand out [opposition charts](/markdown/2025-edm/edm-timbre-ped-handout.pdf) (printable from handout)
--   Go through each term and its accompanying video example from Section 1 of Lavengood (2020)
+-   Go through each term and its accompanying video example from Section 1 of Lavengood (2020), e.g. ↓
+
+<video data-preview-video data-preview-fit="contain"  src="https://mtosmt.org/issues/mto.20.26.3/lavengood_videoex05.mp4" style="max-height:30vh;"></video>
 
 <small>(An _Open Music Theory_ chapter is coming… someday…)</small>
-
---
-
-<!-- .element: data-background-iframe="https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.lavengood.html" data-background-interactive -->
 
 --
 
