@@ -1,6 +1,16 @@
+---
+header-includes: |
+    <style>
+    code, kbd, pre {
+    background-color: yellow; 
+    }
+    line-height: 1.5;
+    </style>
+---
+
 # EDM as Timbre Learning Lab
 
-Thanks for coming to my talk! Please scan the lesson plan QR code to save as your take-home from this talk. You don't need to reference it while I'm speaking, though. And if you're having trouble seeing the presentation, you can scan the Slides QR code or go to presentations dot Megan Lavengood dot com and find this there.
+Thanks for coming to my talk! Please scan the lesson plan QR code to save as your take-home from this talk. You don't need to reference it while I'm speaking, though. And if you're having trouble seeing the presentation, you can scan the Slides QR code or go to presentations dot megan lavengood dot com and find this there.
 
 --- `[CLICK]`
 
@@ -32,7 +42,7 @@ So to explain my reasoning behind this sequencing:
 
 `CLICK` Then, talking about texture leads naturally into talking about timbre, especially if we're going to analyze texture in EDM. Since EDM uses a lot of sounds that don’t have a clear sound source, it becomes meaningless to talk about instruments, and instead we need to talk more precisely about timbral effects.
 
-`CLICK` The third and fourth lessons are really where the critical pedagogy aspects take center stage. Here, we stress test the concepts of timbre and texture that we’ve already established by focusing specifically on unpitched percussion. And what we find is that we’ve developed more robust terms for discussing texture and timbre as it pertains to _pitched_ instruments, and that _unpitched_ instruments force us to refine and reconsider some of these definitions. And again, you'll see that these are the lessons that will really support our critical pedagogy mission, because they’re the lessons that involve the most critical thinking from the students.
+`CLICK` The third and fourth lessons are really where the critical pedagogy aspects take center stage. Here, we stress test the concepts of timbre and texture that we’ve already established by focusing specifically on unpitched percussion. And what we find is that we’ve developed more robust terms for discussing texture and timbre as it pertains to _pitched_ instruments, and that _unpitched_ instruments force us to refine and reconsider some of these definitions. And again, you'llsee that these are the lessons that will really support our critical pedagogy mission, because they’re the lessons that involve the most critical thinking from the students.
 
 Today, I'm not gonna have time to walk through each of these lesson plans in detail. I'm going to be very brief about these first two lessons.
 
@@ -138,7 +148,7 @@ I'm going to go into more detail with these next two lessons, both of which focu
 -   Many people tune out details of percussion; we will learn to listen closely to percussion instead
 -   EDM foregrounds percussion, making it an ideal repertoire to learn with
 
-_This is challenging for many people, especially musicians who have focused extensively on pitch and pitched instruments._
+_This is challenging for many people, especially musicians who have focused extensively on pitch and piched instruments._
 
 I deliberately said "musicians" and not "students" because this can be challenging for instructors also. But as we've mentioned, the spirit of critical pedagogy is to allow ourselves to be uncomfortable and see the students more as equal co-learners.
 
@@ -170,7 +180,7 @@ This leads well into another small group activity where students work with each 
 
 When you reconvene the groups back together, several issues will likely come up. One might be that there is not a good term in the old vocabulary to address the length of the decay, which is super important for describing percussion instruments—a lot of percussionists would probably call this opposition "dry versus wet."
 
-Another issue is that students may struggle to decide which oppositional term applies if they are not certain what they're comparing the sound to. When you're analyzing percussion only, it makes sense to shift your threshold of what qualifies as "noisy" versus "pure," for one thing. The bass drum isn't "pure" compared to a good French horn tone, but it is compared to the crash cymbal.
+Another issue is that students may struggle to decide which oppositional term applies if they are not certain what they're comparing the sound to. When you're analyzing percussion only, it makes sense to shift your threshold of what qualifies as "noisy" versus "pure," for one thing. The bass drum isn't "pure" compared to a good Frenh horn tone, but it is compared to the crash cymbal.
 
 These kinds of discoveries and uncertainties are exactly what we want to lean into in a critical pedagogy approach. It's okay not to have all the answers, and it's okay to have to revise what you initially thought as you gather more evidence and context.
 
@@ -213,17 +223,17 @@ Hopefully, the students spent time watching the 909 Workout and are familiar wit
 
 -- `[CLICK]`
 
-As a regrouping and debriefing activity, ask each group to explain their results and their process, and to compare it to how it felt to do the same thing with a more normal pop song. My own opinion is that, especially in the absence of pitch information, whether rhythms are regular or more unpredictable has a lot to do with what layer things seem to belong to. And another aspect is timbre, particularly in the melodic layer. A key feature of vocals is the way the timbre of the voice constantly shifts as different words are pronounced. Without a vocalist—and keep in mind that much EDM lacks a vocalist—that same kind of timbral dynamism becomes important to spot in other instruments, even in percussion instruments. That kind of dynamism attracts our ears, I think, and encourages us to hear it as melodic, or at least foregrounded as a melody would be.
+As a regrouping and debriefing activity, ask each group to explain their results and their process, and to compare it to how it felt to do the same thing with a more normal pop song. My own opinion is that, especially in the absence of pitch information, whether rhythms are regular or more unpredictable has a lot to do with what layer things seem to belong to. And another aspect is timbre, particualrly in the melodic layer. A key feature of vocals is the way the timbre of the voice constantly shifts as different words are pronounced. Without a vocalist—and keep in mind that much EDM lacks a vocalist—that same kind of timbral dynamism becomes important to spot in other instruments, even in percussion isntruments. That kidn of dynamism attracts our ears, I think, and encourages us to hear it as melodic, or at least foregrounded as a melody would be.
 
 -- `[CLICK]`
 
-### Assignment: Jlin, "Hatsheput"
+### Assignment: Jlin, "Hatshepsut"
 
-If you wanted, you could probably continue using the 909 Workout for the last assignment—there is so much material to uncover there. But if you're ready to mix it up, a more contemporary example is JLin's "Hatsheput." It's another very percussion-heavy song like the 909 workout, but the timbral palette is much wider than in the 909 Workout. It's also substantially shorter. Let's listen a little.
+If you wanted, you could probably continue using the 909 Workout for the last assignment—there is so much material to uncover there. But if you're ready to mix it up, a more contemporary example is JLin's "Hatshepsut." It's another very percussion-heavy song like the 909 workout, but the timbral palette is much wider than in the 909 Workout. It's also substantailyl shorter. Let's listen a little.
 
 -- `[CLICK]`
 
-Whichever piece you choose, the assignment goals will be to continue to practice using the terminology established, while also remaining open to critiquing and adjusting the terminology as necessary to make it work for a good, compelling analysis of the piece. So I'd ask them to:
+Whichever piece you choose, the assignment goals will be to continue to practice using the terminology established, while also remaining open to ciritquing and adjusting the terminology as necessary to make it work for a good, compelling analysis of the piece. So I'd ask them to:
 
 -   Categorize instruments as belonging to functional layers
 -   Transcribe rhythmic motives as needed

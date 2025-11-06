@@ -19,7 +19,7 @@
 
 </div></div>
 
----
+--
 
 <div class="container">
 
@@ -38,18 +38,39 @@ Or go to [presentations.meganlavengood.com](https://presentations.meganlavengood
 
 ---
 
+<!-- .element: data-auto-animate="true" -->
+
 ## Inspiration
 
 --
+
+<!-- .element: data-auto-animate="true" -->
 
 ## Inspiration
 
 Cornelia Fales, "Hearing Timbre: Perceptual Learning among Early Bay Area Ravers"
 
--   EDM (generally) avoids complex, teleological chord progressions and vocals <!-- .element: class="fragment" data-fragment-index="1" -->
--   These elements demand attention when present <!-- .element: class="fragment" data-fragment-index="2" -->
--   **When absent, listeners can focus more easily on timbre** <!-- .element: class="fragment" data-fragment-index="2" -->
--   EDM aficionados actually see this timbral attentiveness as hearing EDM "correctly" <!-- .element: class="fragment" data-fragment-index="3" -->
+<ul>
+<li class="fragment">EDM (generally) avoids complex, teleological chord progressions and vocals</li>
+<li class="fragment">These elements demand attention when present <br/> <strong>When absent, listeners can focus more easily on timbre</strong></li>
+<li class="fragment">EDM aficionados actually see this timbral attentiveness as hearing EDM &quot;correctly&quot;</li>
+</ul>
+
+<aside class="notes" data-markdown>
+
+-   Legendary timbre scholar Cornelia Fales has a 2018 book chapter where she studies this group of 1990s ravers by going through an archive of this listserv they had.
+    -   `CLICK` Her article discusses a connection between EDM's fringe status and its aesthetic of "nonspecificity."
+    -   She documents that these EDM listeners prioritized timbral nonspecificity, meaning: they preferred their rave music to have timbres with ambiguous or disconnected sound sources.
+    -   They rejected vocals and meaningful lyrics as distracting and disruptive to the rave experience.
+    -   Citing perception studies, Fales argues that by eschewing clear sound sources and vocals, the musical features of EDM actually encourage a heightened timbral attentiveness.
+-   This has clear implications for pedagogues looking to teach students about timbre.
+    -   By de-emphasizing more familiar domains of focus, as EDM does, we can more easily get students to pay attention to timbre. `CLICK`
+-   As a bonus, it turns out that according to Fales's research, listening in this way can improve one's appreciation for EDM.
+    -   EDM can seem hard to understand for a cultural outsider.
+    -   A lot of it lacks vocals, easily-identifiable instruments, and some music theory comfort objects like teleological progressions.
+    -   But if we learn to hear in this new timbre-focused way, we would be hearing more like the EDM community would. `CLICK`
+
+</aside>
 
 ---
 
@@ -63,8 +84,8 @@ Cornelia Fales, "Hearing Timbre: Perceptual Learning among Early Bay Area Ravers
 <p><b><a href="/markdown/2025-edm/edm-timbre-ped-handout.pdf" target=_blank>Four lessons</a></b></p>
 <ol>
 <li>Texture in pop music</li>
-<li>Timbre vocabulary</li>
-<li>Unpitched percussion timbre</li>
+<li><b>Timbre vocabulary</b></li>
+<li><b>Unpitched percussion timbre</b></li>
 <li>Percussion's role in texture</li>
 </ol>
 
@@ -75,6 +96,14 @@ Cornelia Fales, "Hearing Timbre: Perceptual Learning among Early Bay Area Ravers
 <img data-preview-image data-preview-fit="contain" src="/markdown/2025-edm/qr-handout.svg" style="height:100%;">
 
 </div></div>
+
+<aside class="notes" data-markdown>
+
+-   Fales's chapter inspired me to come up with this module dedicated to learning about timbre and texture through EDM. I've broken it into four lessons, which you can see enumerated here.
+-   I don't have enough time today to talk about all four of these lesson plans in detail, though, so I'll be focusing mainly on lessons 2 and 3, the timbre lessons.
+-   But your handout has all four lesson plans, so you can check that out on your own time.
+
+</aside>
 
 --
 
@@ -97,94 +126,21 @@ Cornelia Fales, "Hearing Timbre: Perceptual Learning among Early Bay Area Ravers
 
 <div class="col">
 <ul>
-<li>75-minute lessons</li>
+<li>75-minute lessons (lecture + hands-on work)</li>
 <li>Accessible for non-majors</li>
 <li>Could also slot into core theory class</li>
 </ul>
 </div></div>
 
---
-
-<!-- .element: data-auto-animate="true" -->
-
-## Timbre in EDM Learning Module <!-- .element: class="r-fit-text" -->
-
-<ol>
-<li>Texture in pop music</li>
-<li style="list-style-type:none;color:var(--r-link-color);font-size:90%;">└ Beginning with texture: concrete, salient, simpler to describe</li> <!-- .element: class="fragment" data-fragment-index="1" -->
-<li value="2">Timbre vocabulary</li>
-<li style="list-style-type:none;color:var(--r-link-color);font-size:90%;">└ Timbre becomes a logical next topic, since the &quot;sourcelessness&quot; of EDM makes it hard to talk about the &quot;instruments&quot; of each layer in the texture.</li> <!-- .element: class="fragment" data-fragment-index="2" -->
-<li value="3">Unpitched percussion timbre</li>
-<li>Percussion's role in texture</li>
-<li style="list-style-type:none;color:var(--r-link-color);font-size:90%;">└ Using percussion to stress test timbre and texture concepts</li> <!-- .element: class="fragment" data-fragment-index="3" -->
-</ol>
-
----
-
-<!-- .element: data-auto-animate="true" -->
-
-## 1. Texture in pop music
-
---
-
-<!-- .element: data-auto-animate="true" -->
-
-## 1. Texture in pop music
-
--   **5 functional layers: explicit beat, functional bass, harmonic filler, melody, novelty**
--   Texture is separate from but intertwined with timbre
-
---
-
-<!-- .element: data-auto-animate="true" -->
-
-## 1. Texture in pop music
-
-[Lesson on _Open Music Theory_](https://viva.pressbooks.pub/openmusictheory/chapter/texture-in-pop-music/)
-
-<iframe data-src="https://viva.pressbooks.pub/openmusictheory/chapter/texture-in-pop-music/#content" width="100%" height="400"></iframe>
-
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3552017559/size=small/bgcol=ffffff/linkcol=0687f5/track=2010884047/transparent=true/" seamless><a href="https://vulfpeck.bandcamp.com/album/the-joy-of-music-the-job-of-real-estate-2">The Joy of Music, The Job of Real Estate by Vulfpeck</a></iframe>
-
 <aside class="notes" data-markdown>
-This chapter take students through the definitions and examples of each of the functional layers defined by Alan Moore and myself. This chapter is not specifically a tuned to EDM, but rather is meant to apply to most popular music genres, including EDM. I would not start with an EDM example, however. EDM poses particular challenges for timber and texture analysis.
+
+-   These are conceived as 75-minute lessons, since that's how long my classes are at George Mason.
+-   75 minutes is kind of long, so I am always getting students involved in hands-on practice with the concepts by halfway through the lesson. That's a pattern you'll see throughout these modules.
+-   A nice thing about teaching timbre is that these lessons are accessible for non-majors, since timbre doesn't depend on fluency in music notation or an understanding of tonality.
+-   But they would be just at home in a core theory class. I would teach this in my pop and jazz class for undergraduate music majors, but again, since it doesn't require understanding notation or tonality, it can fit anywhere in your curriculum.
+
 </aside>
 
---
-
-<!-- .element: data-auto-animate="true" -->
-
-## 1. Texture in pop music
-
-### Assignment
-
--   Creating a layer graph to represent functional layers in "bad guy" by Billie Eilish (2018) using [Auralayer](https://brianedwardjarvis.com/auralayer/home.html)
--   Discussion questions
-    1. What instruments make up each layer?
-    2. When do layers enter and exit, and how does that relate to the form?
-    3. Are any functional layers missing altogether? What is the effect of omitting that layer from the song?
-    4. How do the rhythmic profiles of the layers differ?
-    5. How do any of the answers to the questions above relate to genre or cultural context?
-
---
-
-<!-- .element: data-background-iframe="https://brianedwardjarvis.com/auralayer/home.html" data-background-interactive -->
-
---
-
-<!-- .element: data-auto-animate="true" -->
-
-## 1. Texture in pop music
-
-### Learning objectives
-
-By the end of the class, students will be able to:
-
--   Enumerate and characterize five functional layers of texture in pop music
--   Assign sounds to a functional layer
--   Diagram functional layers in a song
--   Compare functional layers between different pop songs
-
 ---
 
 <!-- .element: data-auto-animate="true" -->
@@ -197,9 +153,19 @@ By the end of the class, students will be able to:
 
 ## 2. Timbre vocabulary
 
--   Texture is easier to talk about when sound sources are easily identified, as in pop-rock
--   In EDM, sound sources are unclear; more challenging
--   But when sources are unclear, this forces us to talk in terms of timbre
+-   Timbre is often conflated with instrumentation (sound-source identification)
+-   In EDM, sound sources are unclear, so instrumentation is insufficient, which forces a focus on timbre.
+-   Timbre is an especially salient musical parameter in EDM
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1582478914/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://tictacto.bandcamp.com/album/wiipop">WIIPOP by tictacto</a></iframe>
+
+<aside class="notes" data-markdown>
+
+-   A common problem in learning to study timbre—one that I ran into myself—is that timbre is easily conflated with instrumentation, or sound-source identification. You know, that's a trumpet, that's a violin, that kind of thing.
+-   In EDM, though, sound sources are often unclear. Like what are the instruments here? `play dariacore example` It doesn't really matter, right? The idea is that when sources are unclear, this forces us to talk in terms of timbre. If everything is synth, it's helpful to be able to talk about "that noisy, dark synth" and contrast it with "that bright, inharmonic synth" or whatever.
+-   And as I already mentioned, timbre is especially salient and important in EDM—you'll find there's plenty of timbral details to listen for in any given EDM track.
+
+</aside>
 
 --
 
@@ -213,6 +179,16 @@ By the end of the class, students will be able to:
 -   Ask students for their own examples of timbre terms; as disagreement or confusion arises, point out that different people understand these words differently, and so it's important to established shared definitions
 -   Offer [Lavengood (2020)](https://mtosmt.org/issues/mto.20.26.3/mto.20.26.3.lavengood.html) as one option to stick with for the module
 
+<aside class="notes" data-markdown>
+
+-   If I had to pick one major issue I encountered in teaching these lessons, it was that students brought in strong feelings about the meanings of certain words that they were reluctant to let go of.
+    -   And this is an issue with timbre analysis in general. People already have a vocabulary they're using to describe timbre, but it's often entirely scrutinized, and culturally dependent.
+    -   A big part of this lesson is getting students to buy into the idea that a shared lexicon is useful, even if that lexicon has imperfections or limited applicability.
+-   As you might imagine, I'm partial to my own set of terms, but for more vocally-focused terms I also really like, for example, Kate Heidemann's, Michele Duguay's, or Victoria Malawey's…there's so many good timbre publications out there nowadays. I won't be mad if you go another direction.
+-   The key thing is agreeing on what definitions you'll use in your classes.
+
+</aside>
+
 --
 
 <!-- .element: data-auto-animate="true" -->
@@ -220,6 +196,8 @@ By the end of the class, students will be able to:
 ## 2. Timbre vocabulary
 
 ### Lesson plan
+
+Opposition chart (printable in [handout](/markdown/2025-edm/edm-timbre-ped-handout.pdf))
 
 |    opposition<br/> − / + | [some sound]</br>&nbsp; |
 | -----------------------: | :---------------------: |
@@ -237,15 +215,9 @@ By the end of the class, students will be able to:
 <!-- .element: class="opp-table" -->
 
 <aside class="notes" data-markdown>
-Important points:
 
--   terms are grouped into oppositional pairs; each term helps define its opposite
--   in filling out an opposition table, you use either plus or minus to indicate which oppositional term applies; this allows a birds-eye view of the analytical conclusions
--   these terms are meant to be relatively objectively defined as specific acoustic phenomena
--   fully implemented, the +/- system has specific cultural meanings—markedness—but this can be set aside for the sake of introductory lessons.
--   can read more on MTO.
-
-</aside>
+-   So anyway, for the sake of argument, let's pretend we all bought into my timbre vocabulary. You can teach students the terms by going through my article with them, where I have video examples of spectrograms and so on that help clarify the terms. I've heard it's accessible, especially with a teacher to guide them through it.
+-   I'd love to talk more about it, but I'll have to let you read the article on your own instead of rehashing it now.
 
 --
 
@@ -255,33 +227,22 @@ Important points:
 
 ### Lesson plan
 
--   Hand out [opposition charts](/markdown/2025-edm/edm-timbre-ped-handout.pdf) (printable from handout)
--   Go through each term and its accompanying video example from Section 1 of Lavengood (2020), e.g. ↓
+<iframe class="r-frame" allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="float: right;width:200px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/helix/1719860281?i=1719860285"></iframe>
 
-<video data-preview-video data-preview-fit="contain"  src="https://mtosmt.org/issues/mto.20.26.3/lavengood_videoex05.mp4" style="max-height:30vh;"></video>
-
-<small>(An _Open Music Theory_ chapter is coming… someday…)</small>
-
---
-
-<!-- .element: data-auto-animate="true" -->
-
-## 2. Timbre vocabulary
-
-### Lesson plan
-
--   Small group work: Identify 3 different sounds in "Helix" by Flume and describe the timbre by filling out the opposition table. Identify what seems to be the most important characterteristic(s).
-    -   Students can use ± to describe sounds that have both qualities (e.g., because they shift)
--   Presentation and discussion
--   **Assignment: complete an analysis of (5/10/all) of the sounds used in the track.**
+<ul style="display: inline;">
+<li>Small group work: Identify 3 different sounds in &quot;Helix&quot; by Flume and describe the timbre by filling out the opposition table.
+Presentation and discussion</li>
+<li>Where did two groups analyze the same sounds differently? What might be an explanation?</li>
+<li>Timbre occurs on a spectrum; how did you decide which term to use?</li>
+<li>Which terms seemed most useful? Least useful?</li>
+<li>Did you notice any correspondence between timbre and rhythm, form, etc.?</li>
+</ul>
 
 <aside class="notes" data-markdown>
-- Ask each group to explain which sounds and terms they chose
-- Discussion questions:
-  - Where did two groups analyze the same sounds differently? What might be an explanation?
-  - Timbre occurs on a spectrum; how did you decide which term to use?
-  - Which terms seemed most useful? Least useful?
-  - Did you notice any correspondence between timbre and rhythm, form, etc.?
+
+-   It's so easy to find EDM songs that would work great for having students practice applying the terms, for the reasons I mentioned at the outset of the article. You could use this song that Hannah used in her module, but nearly anything could work here could work here. What I like about this example is that it's not too dense, and it has a broad-ranging timbral palette.
+-   I'd get students started working on the song in class, then for homework, I'd ask them to do more of this work—complete the opposition table for maybe 5 more, 10 more, or all of the sounds, depending on what seems appropriate for the class and the song being studied.
+
 </aside>
 
 --
@@ -296,6 +257,15 @@ By the end of the class, students will be able to:
 
 -   Distinguish terms within an oppositional pair of timbre descriptors
 -   Assign timbre descriptors to sound signals
+
+<aside class="notes" data-markdown>
+
+By the end of the class, students will be able to:
+
+-   Distinguish terms within an oppositional pair of timbre descriptors
+-   Assign timbre descriptors to sound signals
+
+</aside>
 
 ---
 
@@ -313,9 +283,15 @@ By the end of the class, students will be able to:
 -   Many people tune out details of percussion; we will learn to listen closely to percussion instead
 -   EDM foregrounds percussion, making it an ideal repertoire to learn with
 
-_This is challenging for many people, especially musicians who have focused extensively on pitch and piched instruments._
+_This is challenging for many people, especially musicians who have focused extensively on pitch and pitched instruments._
 
 <aside class="notes" data-markdown>
+
+-   Having ~~mastered~~ learned about timbre in the context of pitched instruments, we can see to what extent this vocabulary is useful for unpitched instruments.
+-   Many people tune out details of percussion; we will learn to listen closely to percussion instead
+-   EDM foregrounds percussion, making it an ideal repertoire to learn with
+
+_This is challenging for many people, especially musicians who have focused extensively on pitch and pitched instruments._
 
 I deliberately said "musicians" and not "students" because this can be challenging for instructors also. But as we've mentioned, the spirit of critical pedagogy is to allow ourselves to be uncomfortable and see the students more as equal co-learners.
 
@@ -335,6 +311,28 @@ Preliminaries
 -   Refer back to Lavengood (2020) timbre vocabulary: what will be less useful? what will be more useful?
 -   Distribute [customizable opposition charts](/markdown/2025-edm/edm-timbre-ped-handout.pdf) (printable in handout)
 
+| opposition<br/> − / + | snare |
+| --------------------: | :---: |
+|       _bright / dark_ |   –   |
+|        _pure / noisy_ |   +   |
+|       _rich / sparse_ |   -   |
+|            \_\_\_\_\_ |       |
+|            \_\_\_\_\_ |       |
+
+<!-- .element: class="opp-table" -->
+
+etc.
+
+<aside class="notes" data-markdown>
+
+Preliminaries
+
+-   Define "unpitched percussion". In case you're not sure yourself, what I mean is percussion instruments that don't have a clearly perceptible pitch: things like snare drums, bass drums, cymbals, wood blocks, stuff like that. While these things may possess a pitch from a technical standpoint, they are not used in compositions to provide pitch content generally speaking.
+-   So if we are using my timbre vocabulary in my MTO article: what will be less useful? what will be more useful? I've found a lot of the terms to be pretty irrelevant, actually, and probably the students can identify which of these terms are not gonna be helpful.
+-   After a little discussion, you can distribute the customizable opposition charts, which are also included in the handout. These charts have only a few of my original timbre oppositions—_rich/sparse, bright/dark,_ and _pure/noisy_—and then a bunch of blank rows which students are meant to fill in with ad-hoc terms of their own invention as we go through the lesson.
+
+</aside>
+
 --
 
 <!-- .element: data-auto-animate="true" -->
@@ -347,9 +345,24 @@ Preliminaries
 -   Have students use devices to access [roland50.studio](roland50.studio), a web-app version of the 909
 -   Take a tour of the instrument together to get a sense of the soundscape
 
+<aside class="notes" data-markdown>
+- Students will be interested to learn a little about the 909—the 808 is more famous but the 909 is another really important drum machine for EDM in particular. 
+- You can read Wikipedia about it yourself, but the short version is, 
+- the 909 was unpopular when it was released in 1983, and ended up in clearance bins at secondhand shops, where enterprising DJs, in Chicago and Detroit especially, bought them up and started using them to make techno and house music.
+- Since the 909 is now such an iconic sound, Roland made a cool, free web app emulator of the 909. 
+  - So you can invite the students to pull up this website on their devices and mess around with it to get a sense of the 909's sounds and technology. 
+  - It is simplified from the real 909 but for a free, easily accessible tool, I think it's pretty awesome.
+
+</aside>
+
 --
 
 <!-- .element: data-background-iframe="https://roland50.studio" data-background-interactive -->
+
+<aside class="notes" data-markdown>
+https://roland50.studio -- quick demo, show what the knobs do
+
+</aside>
 
 --
 
@@ -365,6 +378,17 @@ Preliminaries
     -   Encourage groups to invent new oppositions if needed.
     -   Explain using our established timbre vocabulary what the knobs change in each sound.
 
+<aside class="notes" data-markdown>
+
+-   This leads well into another small group activity where students work with each other to try and define the timbres of these 909 sounds.
+-   Divide students into groups; have each group analyze different instruments on the 909.
+    -   Try to define them by their most distinctive characteristics.
+    -   Timbres should be defined relative to the overall sound palette of the TR-909.
+    -   Encourage groups to invent new oppositions if needed.
+    -   Explain using our established timbre vocabulary what the knobs change in each sound.
+
+</aside>
+
 --
 
 <!-- .element: data-auto-animate="true" -->
@@ -376,6 +400,16 @@ Preliminaries
 -   Presentation and reflection
     -   share findings
     -   determine what terms were most useful, including any new terms (e.g., _dry/wet_ may come up—length of decay)
+    -   Important takeaway: for binary oppositions to work, you have to consider what kind of context you're working within
+
+<aside class="notes" data-markdown>
+- When you reconvene the groups back together, several issues will likely come up.
+  -  One might be that there is not a good term in the old vocabulary to address the length of the decay, which is super important for describing percussion instruments—a lot of percussionists would probably call this opposition "dry versus wet."
+- Another issue is that students may struggle to decide which oppositional term applies if they are not certain what they're comparing the sound to.
+  -  When you're analyzing percussion only, it makes sense to shift your threshold of what qualifies as "noisy" versus "pure," for one thing. The bass drum isn't "pure" compared to a good French horn tone, but it is compared to the crash cymbal.
+- These kinds of discoveries and uncertainties are exactly what we want to lean into in a critical pedagogy approach. It's okay not to have all the answers, and it's okay to have to revise what you initially thought as you gather more evidence and context.
+
+</aside>
 
 --
 
@@ -385,7 +419,19 @@ Preliminaries
 
 ### Assignment: [TR-909 "Workout"](https://www.youtube.com/watch?v=sLtnbR9H48I)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sLtnbR9H48I?si=IlX7jUP-tBAYqy_q&amp;start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-   Ask students to fill in a simplified opposition table describing (5/10/all) of the instruments as used here.
+
+<iframe data-preview-video data-preview-fit="contain" width="560" height="315" src="https://www.youtube.com/embed/sLtnbR9H48I?si=IlX7jUP-tBAYqy_q&amp;start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<aside class="notes" data-markdown>
+
+-   Next, we can show them what an expert can do with this machine. Let's watch a little of it.
+-   As I'm sure you can see, It's worth taking time to watch this in class with the student, because it's a very attention-grabbing performance. This way the students will actually watch it in full at home.
+-   For a homework assignment, I'd ask the students to pick some number of instruments to focus on, and to work on doing a timbre analysis with a simplified opposition table.
+    -   The track is really long and complex, so you should circumscribe their work appropriately, or else they'll be overwhelmed.
+    -   I do have a published analysis of this in a 2021 book chapter you can find in my bibliography that you can use as an answer key of sorts.
+
+</aside>
 
 --
 
@@ -400,113 +446,36 @@ By the end of the class, students will be able to:
 -   Distinguish terms within an oppositional pair of timbre descriptors
 -   Assign timbre descriptors to **unpitched percussion sound signals**
 
----
-
-<!-- .element: data-auto-animate="true" -->
-
-## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
-
---
-
-<!-- .element: data-auto-animate="true" -->
-
-## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
-
--   Students are now more comfortable thinking about percussion
--   Just as percussion problematizes our timbre vocabulary, it also problematizes the texture vocabulary
--   Because percussion is so central to EDM, this repertorie challenges automatic categorization of percussion as belonging to the "explicit beat layer"
-
---
-
-<!-- .element: data-auto-animate="true" -->
-
-## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
-
-### Lesson Plan
-
--   Review functional layer types as defined in [_Open Music Theory_](https://viva.pressbooks.pub/openmusictheory/chapter/texture-in-pop-music)
--   Critique: the TR-909 Workout
-    -   Do you think these layers exist here? Is everything just “explicit beat layer” [rhetorical question!]?
-    -   What aspects of each layer could also be present even in unpitched percussion?
-
---
-
-<!-- .element: data-auto-animate="true" -->
-
-## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
-
-### Lesson Plan
-
-Small group work
-
--   Ask each group to pick one functional layer type (e.g., "functional bass") to focus on
--   Determine which instrument(s) and rhythmic motives belong to their layer type
--   Use, critique, and build on the definition of that layer type
-
---
-
-<!-- .element: data-auto-animate="true" -->
-
-## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
-
-### Lesson Plan
-
-Discussion
-
--   Have groups present their findings
--   How did definitions shift/change through this process?
--   What aspects of each sound led you to put it in your functional layer (timbre, rhythm, etc.)?
-
---
-
-<!-- .element: data-auto-animate="true" -->
-
-## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
-
-### Assignment: Jlin, "Hatshepsut"
-
-<iframe style="border: 0; width: 100%; max-width: 700px; height: 120px; margin-left: auto; margin-right: auto;" data-src="https://bandcamp.com/EmbeddedPlayer/album=2765736108/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/artwork=small/track=448110133/transparent=true/" seamless><a href="https://jlin.bandcamp.com/album/black-origami">Black Origami by Jlin</a></iframe>
-
-In class preparation
-
--   Listen once all the way through
--   Identify instruments (by name, onomotopoeia, timbre, etc.)
-
---
-
-<!-- .element: data-auto-animate="true" -->
-
-## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
-
-### Assignment: Jlin, "Hatshepsut"
-
-Assignment goals:
-
--   Categorize instruments as belonging to functional layers
--   Transcribe rhythmic motives as needed
--   Use timbre vocabulary as needed
--   Write a 200–300 word reflection: How did you determine which instruments belong to which layer? How did timbre factor into your decisions, if at all? What other musical domains influenced your decisions (rhythm? register? form?)?
-
---
-
-<!-- .element: data-auto-animate="true" -->
-
-## 4. Percussion's Role in Texture <!-- .element: class="r-fit-text" -->
-
-### Learning objectives
-
+<aside class="notes" data-markdown>
 By the end of the class, students will be able to:
 
--   Critique the five functional layers of texture in pop music
--   Analyze unpitched percussion music with functional layers
+-   Distinguish terms within an oppositional pair of timbre descriptors
+-   Assign timbre descriptors to **unpitched percussion sound signals**
+</aside>
 
 ---
 
 ## Conclusion
 
--   Timbre and texture study can be used to analyze any type of music
--   Timbre and texture can be difficult to teach, but that's okay—that's part of the lesson!
--   This module develops autonomous students: no tool is perfect; build on existing tools to make something new
+-   Timbre and texture study can be used to analyze any type of music<!-- .element: class="fragment" data-fragment-index="" -->
+-   Timbre and texture can be difficult to teach, but that's okay—that's part of the lesson!<!-- .element: class="fragment" data-fragment-index="" -->
+-   This module develops autonomous students: no tool is perfect; build on existing tools to make something new<!-- .element: class="fragment" data-fragment-index="" -->
+
+<aside class="notes" data-markdown>
+
+-   It's hard for me to wrap up here, because honestly I could talk about this stuff for a long, long time.
+    -   I actually made a script today instead of talking off bullets like I've been doing lately, because of my concern that I'll blow right past the 20-minute mark if I don't stick to a script!
+    -   I think these topics are so interesting and valuable, for myself and for my students, and I hope I've convinced you to feel the same way.
+-   The thing is that timbre and texture are special. They can be used to analyze any type of music—not just EDM, and not just Western Classical music, but really anything. Virtually any piece of music has a timbre and a texture.
+-   Teaching this way of listening to music makes students really flexible in how they can apply music theory going forward in their careers and lives.
+-   It's true that timbre and texture can be difficult to teach, but our mantra with critical pedagogy is that the difficulty is part of the lesson.
+    -   As much as I love putting everything in the right box like any good music theorist, the fact is that not everything in music can be fully described within a system of categories.
+    -   But we don't need to throw the baby out with the bathwater, either—systems can still get us talking and provide a basis for understanding one another.
+    -   By asking students to grapple with challenging examples, they learn an important life lesson that no tool is perfect, but we can always build on existing tools to make something new and meaningful.
+
+Thanks for listening and I hope you can take some of these ideas back to your own students.
+
+</aside>
 
 ---
 
